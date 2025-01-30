@@ -1,0 +1,3534 @@
+[
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tracy McGrady"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "3 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "$$"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "WHERE",
+            "yield"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tony Parker"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "id($$)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD",
+            "RETURN"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Boris Diaw"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "player102"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge) MINUS",
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD",
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "player100"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "properties($$)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Kobe Bryant"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "REVERSELY",
+            "2 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "player101"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Russell Westbrook"
+                ],
+                "edge": {
+                    "OVER": [
+                        "serve"
+                    ]
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "id($$)",
+                "properties(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD",
+            "GO",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "{a:1",
+                "b:['Tim Duncan'",
+                "'Tony Parker']",
+                "c:'Tim Duncan'}",
+                "edge"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "YIELD",
+            "YIELD",
+            "UNWIND",
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD",
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "player100"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge)",
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD",
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "player101"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "BIDIRECT"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "count(*)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge)",
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD",
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "player100"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "1 to 2 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "WHERE",
+            "YIELD",
+            "YIELD",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "player100"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge) UNION",
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD",
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "1 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD",
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tony Parker"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "REVERSELY"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD",
+            "GO",
+            "YIELD",
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD",
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Dwight Howard"
+                ],
+                "edge": {
+                    "OVER": [
+                        "like"
+                    ]
+                }
+            }
+        ],
+        "restrict": [
+            "REVERSELY"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "player100"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Boris Diaw"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {
+                    "OVER": [
+                        "like"
+                    ]
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "$$",
+                "edge"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Russell Westbrook"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "1 to 2 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "BIDIRECT"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Russell Westbrook"
+                ],
+                "edge": {
+                    "OVER": [
+                        "serve"
+                    ]
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "edge"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tony Parker"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD",
+            "GO",
+            "YIELD",
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "3 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "3",
+                "2];"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "player100"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "player100"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "BIDIRECT"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "edge"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "player101"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "src(edge)",
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Carmelo Anthony"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "COUNT(*)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "James Harden"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Russell Westbrook"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "REVERSELY"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "1 to 4 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "edge"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "go",
+            "yield"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "0 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "edge"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tony Parker"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "id($$)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "DISTINCT count(*)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD",
+            "YIELD",
+            "where"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "player101"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {
+                    "OVER": [
+                        "serve"
+                    ]
+                }
+            }
+        ],
+        "restrict": [
+            "BIDIRECT"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "distinct dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "player100"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "1 to 3 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "2",
+                "2]"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Chris Paul"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tony Parker"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD",
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "id($$)",
+                "$$"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "WHERE",
+            "YIELD",
+            "GO",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "edge",
+                "$$"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "LIMIT"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tony Parker"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "10 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "$$"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "player100"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "src(edge)",
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "player100"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "3 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "2",
+                "3]"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Steve Nash"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "REVERSELY"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "player100"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "1 to 2 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD",
+            "YIELD",
+            "where"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "player100"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "REVERSELY"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "src(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "1000000000 to 1000000002 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge)",
+                "src(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Boris Diaw"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "123"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD",
+            "YIELD",
+            "WHERE"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge)",
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD",
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Manu Ginobili"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "REVERSELY"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "player102"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tony Parker"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Boris Diaw"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Russell Westbrook"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "1 to 2 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "$$"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "where",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tony Parker"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "BIDIRECT",
+            "0 to 2 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Manu Ginobili"
+                ],
+                "edge": {
+                    "OVER": [
+                        "like"
+                    ]
+                }
+            }
+        ],
+        "restrict": [
+            "REVERSELY"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "player101"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Russell Westbrook"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "REVERSELY"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "10000000000000 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "player100"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Russell Westbrook"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "REVERSELY"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Nobody"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "1"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "2 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "1"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "src(edge)",
+                "dst(edge)",
+                "rank(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "WHERE",
+            "YIELD",
+            "ORDER BY"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Grant Hill"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "REVERSELY"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tony Parker"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD",
+            "GO",
+            "YIELD",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "player100"
+                ],
+                "edge": {
+                    "OVER": [
+                        "follow"
+                    ]
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "player100"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge) UNION ALL",
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD",
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "\"Tim Duncan\""
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "YIELD",
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "player101"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "id($$)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tony Parker"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "player102"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "2 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Carmelo Anthony",
+                    "Dwyane Wade"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "COUNT(*)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD",
+            "YIELD",
+            "ORDER BY",
+            "LIMIT"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "player100"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Paul George"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Russell Westbrook"
+                ],
+                "edge": {
+                    "OVER": [
+                        "serve"
+                    ]
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "properties(edge)",
+                "type(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "1 to 10 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "$$"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "2 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "edge"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Boris Diaw"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "WHERE",
+            "LIMIT"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Boris Diaw"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tony Parker"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "1 to 2 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Paul Gasol"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Thunders"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "REVERSELY"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "$^",
+                "tags($^)",
+                "id($^)",
+                "id($$)",
+                "$$"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD",
+            "GO",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "player100"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD",
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "player100"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "1 to 2 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "edge"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD",
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "BIDIRECT"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "player100"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Kristaps Porzingis"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "id($$)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD",
+            "RETURN"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "1 steps",
+            "2 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD",
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "player100"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge)",
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD",
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Russell Westbrook"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "10000000000000 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "A"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "1 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "src(edge)",
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "LaMarcus Aldridge"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tony Parker"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "0 to 2 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "DISTINCT dst(edge)",
+                "edge"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "player100"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD",
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tony Parker"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Manu Ginobili"
+                ],
+                "edge": {
+                    "OVER": [
+                        "like"
+                    ]
+                }
+            }
+        ],
+        "restrict": [
+            "REVERSELY"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Rajon Rondo"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Boris Diaw"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "player666",
+                    "player667",
+                    "player668"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Boris Diaw"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "3 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "LIMIT"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Boris Diaw"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "1 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "WHERE",
+            "YIELD"
+        ]
+    }
+]

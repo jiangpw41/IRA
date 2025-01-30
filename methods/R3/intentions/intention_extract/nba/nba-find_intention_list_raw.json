@@ -1,0 +1,1262 @@
+[
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "find .. path",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "end_node": [
+                    "Tony Parker"
+                ],
+                "edge": [
+                    "like"
+                ],
+                "length": [
+                    "UPTO 3 STEPS"
+                ]
+            }
+        ],
+        "restrict": "noloop",
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "path"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FIND",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "find .. path",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tony Parker",
+                    "Yao Ming"
+                ],
+                "end_node": [
+                    "Manu Ginobili",
+                    "Spurs"
+                ],
+                "edge": [
+                    "*"
+                ],
+                "length": []
+            }
+        ],
+        "restrict": "shortest",
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "path"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FIND",
+            "WHERE",
+            "YIELD",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "find .. path",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "end_node": [
+                    "Tony Parker",
+                    "Spurs"
+                ],
+                "edge": [
+                    "like,serve"
+                ],
+                "length": [
+                    "UPTO 3 STEPS"
+                ]
+            }
+        ],
+        "restrict": "shortest",
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "path"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FIND",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "find .. path",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Shaquille O\\'Neal"
+                ],
+                "end_node": [
+                    "Manu Ginobili",
+                    "Spurs"
+                ],
+                "edge": [
+                    "*"
+                ],
+                "length": [
+                    "UPTO 5 STEPS"
+                ]
+            }
+        ],
+        "restrict": "shortest",
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "path"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FIND",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "find .. path",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "end_node": [
+                    "Tony Parker",
+                    "LaMarcus Aldridge"
+                ],
+                "edge": [
+                    "like"
+                ],
+                "length": [
+                    "UPTO 3 STEPS"
+                ]
+            }
+        ],
+        "restrict": "noloop",
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "path"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FIND",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "find .. path",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "end_node": [
+                    "Yao Ming"
+                ],
+                "edge": [
+                    "*"
+                ],
+                "length": []
+            }
+        ],
+        "restrict": "all",
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "path"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FIND",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "find .. path",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "end_node": [
+                    "Nobody",
+                    "Spur"
+                ],
+                "edge": [
+                    "like"
+                ],
+                "length": [
+                    "UPTO 3 STEPS"
+                ]
+            }
+        ],
+        "restrict": "noloop",
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "path"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FIND",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "find .. path",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tony Parker"
+                ],
+                "end_node": [
+                    "Yao Ming"
+                ],
+                "edge": [
+                    "*"
+                ],
+                "length": []
+            }
+        ],
+        "restrict": "all",
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "path"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FIND",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "find .. path",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "end_node": [
+                    "Tony Parker"
+                ],
+                "edge": [
+                    "like"
+                ],
+                "length": [
+                    "UPTO 3 STEPS"
+                ]
+            }
+        ],
+        "restrict": "all",
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "path"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FIND",
+            "YIELD",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "find .. path",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tiago Splitter"
+                ],
+                "end_node": [
+                    "LaMarcus Aldridge"
+                ],
+                "edge": [
+                    "*"
+                ],
+                "length": []
+            }
+        ],
+        "restrict": "shortest",
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "path"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FIND",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "find .. path",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Yao Ming"
+                ],
+                "end_node": [
+                    "Danny Green"
+                ],
+                "edge": [
+                    "*"
+                ],
+                "length": []
+            }
+        ],
+        "restrict": "all",
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "path"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FIND",
+            "WHERE",
+            "YIELD",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "find .. path",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "player102"
+                ],
+                "end_node": [
+                    "team204"
+                ],
+                "edge": [
+                    "*"
+                ],
+                "length": []
+            }
+        ],
+        "restrict": "shortest",
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "path"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FIND",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "find .. path",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Yao Ming"
+                ],
+                "end_node": [
+                    "Tony Parker",
+                    "Tracy McGrady"
+                ],
+                "edge": [
+                    "like,serve"
+                ],
+                "length": [
+                    "UPTO 5 STEPS"
+                ]
+            }
+        ],
+        "restrict": "shortest",
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "path"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FIND",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "find .. path",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "end_node": [
+                    "Tony Parker",
+                    "Manu Ginobili"
+                ],
+                "edge": [
+                    "like"
+                ],
+                "length": [
+                    "UPTO 3 STEPS"
+                ]
+            }
+        ],
+        "restrict": "noloop",
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "path"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FIND",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "find .. path",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "player100"
+                ],
+                "end_node": [
+                    "team204"
+                ],
+                "edge": [
+                    "*"
+                ],
+                "length": []
+            }
+        ],
+        "restrict": "noloop",
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "path"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FIND",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "find .. path",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Yao Ming"
+                ],
+                "end_node": [
+                    "Danny Green"
+                ],
+                "edge": [
+                    "*"
+                ],
+                "length": []
+            }
+        ],
+        "restrict": "all",
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "path"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FIND",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "find .. path",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan",
+                    "Tiago Splitter"
+                ],
+                "end_node": [
+                    "Tony Parker",
+                    "Spurs"
+                ],
+                "edge": [
+                    "like,serve"
+                ],
+                "length": [
+                    "UPTO 5 STEPS"
+                ]
+            }
+        ],
+        "restrict": "shortest",
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "path"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FIND",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "find .. path",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "end_node": [
+                    "Tony Parker",
+                    "Spurs"
+                ],
+                "edge": [
+                    "like,serve"
+                ],
+                "length": [
+                    "UPTO 3 STEPS"
+                ]
+            }
+        ],
+        "restrict": "noloop",
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "path"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FIND",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "find .. path",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tony Parker",
+                    "Yao Ming"
+                ],
+                "end_node": [
+                    "Manu Ginobili",
+                    "Spurs"
+                ],
+                "edge": [
+                    "*"
+                ],
+                "length": [
+                    "UPTO 5 STEPS"
+                ]
+            }
+        ],
+        "restrict": "shortest",
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "path"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FIND",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "find .. path",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "end_node": [
+                    "Nobody"
+                ],
+                "edge": [
+                    "like"
+                ],
+                "length": [
+                    "UPTO 3 STEPS"
+                ]
+            }
+        ],
+        "restrict": "noloop",
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "path"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FIND",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "find .. path",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tiago Splitter"
+                ],
+                "end_node": [
+                    "Tony Parker"
+                ],
+                "edge": [
+                    "*"
+                ],
+                "length": [
+                    "UPTO 1 STEPS"
+                ]
+            }
+        ],
+        "restrict": "shortest",
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "path"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FIND",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "find .. path",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "end_node": [
+                    "Tony Parker"
+                ],
+                "edge": [
+                    "like"
+                ],
+                "length": [
+                    "UPTO 3 STEPS"
+                ]
+            }
+        ],
+        "restrict": "noloop",
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "path"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FIND",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "find .. path",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [],
+                "end_node": [],
+                "edge": [
+                    "like,"
+                ],
+                "length": [
+                    "UPTO 5 STEPS"
+                ]
+            }
+        ],
+        "restrict": "shortest",
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "\"Yao Ming\"",
+                "\"Tony Parker\"",
+                "path"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "YIELD",
+            "FIND",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "find .. path",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "end_node": [
+                    "LaMarcus Aldridge"
+                ],
+                "edge": [
+                    "like"
+                ],
+                "length": []
+            }
+        ],
+        "restrict": "shortest",
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "path"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FIND",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "find .. path",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [],
+                "end_node": [
+                    "Manu Ginobili"
+                ],
+                "edge": [
+                    "*"
+                ],
+                "length": [
+                    "UPTO 5 STEPS"
+                ]
+            }
+        ],
+        "restrict": "shortest",
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "\"Shaquille O\\'Neal\"",
+                "path"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "YIELD",
+            "FIND",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "find .. path",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "end_node": [
+                    "Tony Parker"
+                ],
+                "edge": [
+                    "like"
+                ],
+                "length": []
+            }
+        ],
+        "restrict": "shortest",
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "path"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FIND",
+            "YIELD",
+            "YIELD",
+            "UNWIND",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "find .. path",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "end_node": [
+                    "Tony Parker",
+                    "LaMarcus Aldridge"
+                ],
+                "edge": [
+                    "like"
+                ],
+                "length": [
+                    "UPTO 3 STEPS"
+                ]
+            }
+        ],
+        "restrict": "shortest",
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "path"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FIND",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "find .. path",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Yao Ming"
+                ],
+                "end_node": [
+                    "Danny Green"
+                ],
+                "edge": [
+                    "*"
+                ],
+                "length": []
+            }
+        ],
+        "restrict": "all",
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "path"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FIND",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "find .. path",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "end_node": [
+                    "Tony Parker",
+                    "LaMarcus Aldridge"
+                ],
+                "edge": [
+                    "like"
+                ],
+                "length": [
+                    "UPTO 3 STEPS"
+                ]
+            }
+        ],
+        "restrict": "all",
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "path"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FIND",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "find .. path",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tony Parker",
+                    "Yao Ming"
+                ],
+                "end_node": [
+                    "Manu Ginobili",
+                    "Spurs"
+                ],
+                "edge": [
+                    "*"
+                ],
+                "length": []
+            }
+        ],
+        "restrict": "shortest",
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "path"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FIND",
+            "WHERE",
+            "YIELD",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "find .. path",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tiago Splitter"
+                ],
+                "end_node": [
+                    "LaMarcus Aldridge"
+                ],
+                "edge": [
+                    "like,"
+                ],
+                "length": []
+            }
+        ],
+        "restrict": "shortest",
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "path"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FIND",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "find .. path",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "end_node": [
+                    "Tony Parker"
+                ],
+                "edge": [
+                    "like"
+                ],
+                "length": []
+            }
+        ],
+        "restrict": "shortest",
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "path"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FIND",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "find .. path",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "end_node": [
+                    "Nobody",
+                    "Spur"
+                ],
+                "edge": [
+                    "like"
+                ],
+                "length": [
+                    "UPTO 3 STEPS"
+                ]
+            }
+        ],
+        "restrict": "all",
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "path"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FIND",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "find .. path",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tony Parker",
+                    "Yao Ming"
+                ],
+                "end_node": [
+                    "Manu Ginobili",
+                    "Spurs"
+                ],
+                "edge": [
+                    "*"
+                ],
+                "length": []
+            }
+        ],
+        "restrict": "shortest",
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "path"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FIND",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "find .. path",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "team204"
+                ],
+                "end_node": [
+                    "player100"
+                ],
+                "edge": [
+                    "*"
+                ],
+                "length": []
+            }
+        ],
+        "restrict": "shortest",
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "path"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FIND",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "find .. path",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "player100"
+                ],
+                "end_node": [
+                    "team204"
+                ],
+                "edge": [
+                    "*"
+                ],
+                "length": []
+            }
+        ],
+        "restrict": "all",
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "path"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FIND",
+            "WHERE",
+            "YIELD"
+        ]
+    }
+]

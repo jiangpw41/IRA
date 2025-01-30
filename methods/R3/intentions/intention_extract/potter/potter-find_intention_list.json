@@ -1,0 +1,184 @@
+[
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "哈方·蒙特"
+                ],
+                "end_node_id_list": [
+                    "约塞利德·瓦德考克"
+                ],
+                "edge_type_list": [
+                    "*"
+                ],
+                "length": "shortest",
+                "have_direction": true
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "赫敏·格兰杰"
+                ],
+                "end_node_id_list": [
+                    "哈利·波特"
+                ],
+                "edge_type_list": [
+                    "*"
+                ],
+                "length": "shortest",
+                "have_direction": true
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "托比亚·斯内普"
+                ],
+                "end_node_id_list": [
+                    "帕金 (找球手)"
+                ],
+                "edge_type_list": [
+                    "*"
+                ],
+                "length": "shortest",
+                "have_direction": true
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "詹姆·小天狼星·波特"
+                ],
+                "end_node_id_list": [
+                    "德里安·普塞"
+                ],
+                "edge_type_list": [
+                    "*"
+                ],
+                "length": "shortest",
+                "have_direction": true
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "赫尔曼·温廷汉姆"
+                ],
+                "end_node_id_list": [
+                    "卢克丽霞·布莱克"
+                ],
+                "edge_type_list": [
+                    "*"
+                ],
+                "length": "shortest",
+                "have_direction": true
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "西弗勒斯·斯内普"
+                ],
+                "end_node_id_list": [
+                    "多洛雷斯·乌姆里奇"
+                ],
+                "edge_type_list": [
+                    "*"
+                ],
+                "length": "shortest",
+                "have_direction": true
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "吉米·珀克斯"
+                ],
+                "end_node_id_list": [
+                    "塞缪尔·G·寇豪格"
+                ],
+                "edge_type_list": [
+                    "*"
+                ],
+                "length": "shortest",
+                "have_direction": true
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    }
+]

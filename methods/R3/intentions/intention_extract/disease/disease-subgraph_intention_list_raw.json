@@ -1,0 +1,332 @@
+[
+    {
+        "query_pattern": "sub_graph",
+        "recommend_keywords": "get subgraph",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "胃痛"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "1 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "VERTICES",
+                "EDGES"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GET SUBGRAPH",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "sub_graph",
+        "recommend_keywords": "get subgraph",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "感冒"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "1 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "VERTICES",
+                "EDGES"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GET SUBGRAPH",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "sub_graph",
+        "recommend_keywords": "get subgraph",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "糖尿病"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "1 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "VERTICES",
+                "EDGES"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GET SUBGRAPH",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "sub_graph",
+        "recommend_keywords": "get subgraph",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "神经棘红细胞增多症"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "1 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "VERTICES",
+                "EDGES"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GET SUBGRAPH",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "sub_graph",
+        "recommend_keywords": "get subgraph",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "咳嗽"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "1 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "VERTICES",
+                "EDGES"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GET SUBGRAPH",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "sub_graph",
+        "recommend_keywords": "get subgraph",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "糖尿病"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "1 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "VERTICES",
+                "EDGES"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GET SUBGRAPH",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "sub_graph",
+        "recommend_keywords": "get subgraph",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "头痛"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "1 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "VERTICES",
+                "EDGES"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GET SUBGRAPH",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "sub_graph",
+        "recommend_keywords": "get subgraph",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "胸痛"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "1 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "VERTICES",
+                "EDGES"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GET SUBGRAPH",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "sub_graph",
+        "recommend_keywords": "get subgraph",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "高血压"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "1 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "VERTICES",
+                "EDGES"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GET SUBGRAPH",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "sub_graph",
+        "recommend_keywords": "get subgraph",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "心悸"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "1 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "VERTICES",
+                "EDGES"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GET SUBGRAPH",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "sub_graph",
+        "recommend_keywords": "get subgraph",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "高血压"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "1 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "VERTICES",
+                "EDGES"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GET SUBGRAPH",
+            "YIELD"
+        ]
+    }
+]

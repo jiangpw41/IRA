@@ -1,0 +1,266 @@
+[
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "卡桑德拉·瓦布拉斯基"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "kindred"
+                ],
+                "length": "2 steps",
+                "have_direction": true
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "希思科特·巴巴里"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "kindred"
+                ],
+                "length": "2 steps",
+                "have_direction": true
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "阿布拉克萨斯·马尔福"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "kindred"
+                ],
+                "length": "2 steps",
+                "have_direction": true
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "赫尔伯特·斯普林"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "kindred"
+                ],
+                "length": "2 steps",
+                "have_direction": true
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "雷古勒斯·布莱克"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "kindred"
+                ],
+                "length": "2 steps",
+                "have_direction": true
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "埃尔德·沃普尔"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "kindred"
+                ],
+                "length": "2 steps",
+                "have_direction": true
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "塞德瑞拉·布莱克"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "kindred"
+                ],
+                "length": "2 steps",
+                "have_direction": true
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "詹姆·小天狼星·波特"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "kindred"
+                ],
+                "length": "2 steps",
+                "have_direction": true
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "温迪克·温瑞迪安"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "kindred"
+                ],
+                "length": "2 steps",
+                "have_direction": true
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "乔治·韦斯莱"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "kindred"
+                ],
+                "length": "2 steps",
+                "have_direction": true
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "弗雷德·韦斯莱"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "kindred"
+                ],
+                "length": "2 steps",
+                "have_direction": true
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    }
+]

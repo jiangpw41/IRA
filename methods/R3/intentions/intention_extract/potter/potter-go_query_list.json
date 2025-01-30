@@ -1,0 +1,13 @@
+[
+    "GO 2 STEPS FROM \"卡桑德拉·瓦布拉斯基\" OVER kindred YIELD dst(edge)",
+    "GO 2 STEPS FROM \"希思科特·巴巴里\" OVER Kindred YIELD dst(edge)",
+    "GO 2 STEPS FROM \"阿布拉克萨斯·马尔福\" OVER kindred WHERE kindred.rel_type=='祖先' YIELD dst(edge)",
+    "GO 2 STEPS FROM \"赫尔伯特·斯普林\" OVER kindred YIELD dst(edge)",
+    "GO 2 STEPS FROM \"雷古勒斯·布莱克\" OVER kindred YIELD dst(edge)",
+    "GO 2 STEPS FROM \"埃尔德·沃普尔\" OVER kindred YIELD dst(edge)",
+    "GO 2 STEPS FROM \"塞德瑞拉·布莱克\" OVER kindred WHERE kindred.rel_type=='儿子' YIELD dst(edge)",
+    "GO 2 STEPS FROM \"詹姆·小天狼星·波特\" OVER kindred YIELD dst(edge)",
+    "GO 2 STEPS FROM \"温迪克·温瑞迪安\" OVER kindred YIELD dst(edge)",
+    "GO 2 STEPS FROM \"乔治·韦斯莱\" OVER kindred YIELD dst(edge)",
+    "GO 2 STEPS FROM \"弗雷德·韦斯莱\" OVER kindred YIELD dst(edge)"
+]

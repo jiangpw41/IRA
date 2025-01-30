@@ -1,0 +1,212 @@
+[
+    {
+        "query_pattern": "sub_graph",
+        "recommend_keywords": "get subgraph",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "杜格德·麦克费尔"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "2 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "VERTICES",
+                "EDGES"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GET SUBGRAPH",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "sub_graph",
+        "recommend_keywords": "get subgraph",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "尼可·勒梅"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "2 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "VERTICES",
+                "EDGES"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GET SUBGRAPH",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "sub_graph",
+        "recommend_keywords": "get subgraph",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "亨利八世"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "2 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "VERTICES",
+                "EDGES"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GET SUBGRAPH",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "sub_graph",
+        "recommend_keywords": "get subgraph",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "鲁道夫·布兰德"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "2 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "VERTICES",
+                "EDGES"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GET SUBGRAPH",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "sub_graph",
+        "recommend_keywords": "get subgraph",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "索尔·克罗克"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "2 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "VERTICES",
+                "EDGES"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GET SUBGRAPH",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "sub_graph",
+        "recommend_keywords": "get subgraph",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "菲菲·拉福尔"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "2 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "VERTICES",
+                "EDGES"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GET SUBGRAPH",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "sub_graph",
+        "recommend_keywords": "get subgraph",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "卢卡斯·皮奎利"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "2 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "VERTICES",
+                "EDGES"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GET SUBGRAPH",
+            "YIELD"
+        ]
+    }
+]

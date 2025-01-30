@@ -1,0 +1,9 @@
+[
+    "GET SUBGRAPH 2 STEPS FROM \"杜格德·麦克费尔\" YIELD VERTICES AS nodes, EDGES AS relationships;",
+    "GET SUBGRAPH 2 STEPS FROM \"尼可·勒梅\" YIELD VERTICES AS nodes, EDGES AS relationships;",
+    "GET SUBGRAPH 2 STEPS FROM \"亨利八世\" YIELD VERTICES AS nodes, EDGES AS relationships;",
+    "GET SUBGRAPH 2 STEPS FROM \"鲁道夫·布兰德\" YIELD VERTICES AS nodes, EDGES AS relationships;",
+    "GET SUBGRAPH 2 STEPS FROM \"索尔·克罗克\" YIELD VERTICES AS nodes, EDGES AS relationships;",
+    "GET SUBGRAPH 2 STEPS FROM \"菲菲·拉福尔\" YIELD VERTICES AS nodes, EDGES AS relationships;",
+    "GET SUBGRAPH 2 STEPS FROM \"卢卡斯·皮奎利\" YIELD VERTICES AS nodes, EDGES AS relationships;"
+]

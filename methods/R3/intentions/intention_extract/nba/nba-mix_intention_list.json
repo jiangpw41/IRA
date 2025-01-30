@@ -1,0 +1,535 @@
+[
+    {
+        "查询对象":[
+            {
+                "category": "path",
+                "start_node_id_list": ["Tim Duncan"],
+                "end_node": "待查询",
+                "edge_type_list": ["serve"],
+                "length": null,
+                "have_direction": true
+            },
+            {
+                "category": "sub_graph",
+                "start_node_id_list": [],
+                "end_node": "待查询",
+                "edge_type_list": [],
+                "have_direction": true
+            }
+        ],
+        "查询约束":["WITH PROP"],
+        "返回格式":{
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象":[
+            {
+                "category": "path",
+                "start_node_id_list": ["Tim Duncan"],
+                "end_node": "待查询",
+                "edge_type_list": ["like", "serve"],
+                "length": null,
+                "have_direction": true
+            },
+            {
+                "category": "path",
+                "start_node_id_list": [],
+                "edge_type_list": ["like"],
+                "length": "UPTO 3 STEPS",
+                "have_direction": true
+            }
+        ],
+        "查询约束":["all"],
+        "返回格式":{
+            "distinct": null,
+            "aggregation": [],
+            "order by": ["p"],
+            "limit": "5",
+            "skip": null
+        }
+    },
+    {
+        "查询对象":[
+            {
+                "category": "path",
+                "start_node_id_list": ["Yao Ming"],
+                "end_node": "待查询",
+                "edge_type_list": ["like"],
+                "length": null,
+                "have_direction": true
+            },
+            {
+                "category": "path",
+                "start_node_id_list": ["Tony Parker"],
+                "edge_type_list": ["like", "serve"],
+                "length": "UPTO 5 STEPS",
+                "have_direction": true
+            }
+        ],
+        "查询约束":[],
+        "返回格式":{
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象":[
+            {
+                "category": "path",
+                "start_node_id_list": ["Tim Duncan"],
+                "edge_type_list": ["like", "serve"],
+                "length": null,
+                "have_direction": true
+            },
+            {
+                "category": "path",
+                "start_node_id_list": ["Tony Parker"],
+                "edge_type_list": ["like"],
+                "length": "UPTO 3 STEPS",
+                "have_direction": true
+            }
+        ],
+        "查询约束":["NOLOOP", "WITH PROP", "like.likeness > 90"],
+        "返回格式":{
+            "distinct": null,
+            "aggregation": [],
+            "order by": ["p"],
+            "limit": "5",
+            "skip": null
+        }
+    },
+    {
+        "查询对象":[
+            {
+                "category": "node",
+                "label": ["player"],
+                "age": "40",
+                "name": "待查询"
+            }
+        ],
+        "查询约束":[],
+        "返回格式":{
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象":[
+            {
+                "category": "path",
+                "start_node_id_list": ["Tim Duncan"],
+                "edge_type_list": ["like", "serve"],
+                "length": null,
+                "have_direction": true
+            },
+            {
+                "category": "path",
+                "start_node_id_list": [],
+                "edge_type_list": ["like"],
+                "length": "UPTO 3 STEPS",
+                "have_direction": true
+            }
+        ],
+        "查询约束":["ALL"],
+        "返回格式":{
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象":[
+            {
+                "category": "path",
+                "start_node_id_list": ["Tim Duncan"],
+                "edge_type_list": ["like", "serve"],
+                "length": null,
+                "have_direction": true
+            },
+            {
+                "category": "path",
+                "start_node_id_list": [],
+                "edge_type_list": ["like"],
+                "length": "UPTO 3 STEPS",
+                "have_direction": true
+            }
+        ],
+        "查询约束":["NOLOOP"],
+        "返回格式":{
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象":[
+            {
+                "category": "path",
+                "start_node_id_list": ["player100"],
+                "edge_type_list": ["follow"],
+                "end_node": "待查询",
+                "length": null,
+                "have_direction": true
+            },
+            {
+                "category": "node",
+                "label": "player",
+                "age": "待查询"
+            }
+        ],
+        "查询约束":[],
+        "返回格式":{
+            "distinct": null,
+            "aggregation": ["count"],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象":[
+            {
+                "category": "path",
+                "start_node_id_list": ["Tim Duncan"],
+                "edge_type_list": ["like", "serve"],
+                "length": null,
+                "have_direction": true
+            },
+            {
+                "category": "path",
+                "start_node_id_list": [],
+                "edge_type_list": ["like"],
+                "length": "UPTO 5 STEPS",
+                "have_direction": true
+            }
+        ],
+        "查询约束":["SHORTEST"],
+        "返回格式":{
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象":[
+            {
+                "category": "node",
+                "label": ["player"],
+                "age": "待查询"
+            },
+            {
+                "category": "path",
+                "edge_type_list": ["like"],
+                "end_node": "待查询"
+            }
+        ],
+        "查询约束":["player.name CONTAINS 'Tim'", "REVERSELY"],
+        "返回格式":{
+            "distinct": null,
+            "aggregation": ["any"],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    "写数据库",
+    {
+        "查询对象":[
+            {
+                "category": "node",
+                "label": ["player"],
+                "id": "待查询",
+                "name": "待查询",
+                "age": "40"
+            }
+        ],
+        "查询约束":[],
+        "返回格式":{
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象":[
+            {
+                "category": "node",
+                "label": ["player"],
+                "id": "待查询",
+                "name": "待查询",
+                "age": "40"
+            },
+            {
+                "category": "path",
+                "start_node_id_list": [],
+                "edge_type_list": ["like"],
+                "end_node": "待查询",
+                "length": "1 TO 2 STEPS",
+                "have_direction": true
+            }
+        ],
+        "查询约束":["REVERSELY"],
+        "返回格式":{
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象":[
+            {
+                "category": "path",
+                "start_node_id_list": ["player101"],
+                "edge_type_list": ["follow"],
+                "end_node": "待查询",
+                "length": "",
+                "have_direction": true
+            },
+            {
+                "category": "edge",
+                "label": ["follow"],
+                "degree": "待查询"
+            }
+        ],
+        "查询约束":[],
+        "返回格式":{
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象":[
+            {
+                "category": "path",
+                "start_node_id_list": ["Tim Duncan"],
+                "edge_type_list": ["like", "serve"],
+                "length": null,
+                "have_direction": true
+            },
+            {
+                "category": "path",
+                "start_node_id_list": [],
+                "edge_type_list": ["like"],
+                "length": "UPTO 3 STEPS",
+                "have_direction": true
+            }
+        ],
+        "查询约束":["NOLOOP"],
+        "返回格式":{
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象":[
+            {
+                "category": "path",
+                "start_node_id_list": ["Tim Duncan"],
+                "edge_type_list": ["like", "serve"],
+                "length": null,
+                "have_direction": true
+            },
+            {
+                "category": "path",
+                "start_node_id_list": [],
+                "edge_type_list": ["like"],
+                "length": "UPTO 3 STEPS",
+                "have_direction": true
+            }
+        ],
+        "查询约束":["ALL"],
+        "返回格式":{
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象":[
+            {
+                "category": "path",
+                "start_node_id_list": ["Tim Duncan"],
+                "edge_type_list": ["like", "serve"],
+                "length": null,
+                "have_direction": true
+            },
+            {
+                "category": "path",
+                "start_node_id_list": [],
+                "edge_type_list": ["like"],
+                "length": "UPTO 5 STEPS",
+                "have_direction": true
+            }
+        ],
+        "查询约束":["SHORTEST"],
+        "返回格式":{
+            "distinct": null,
+            "aggregation": [],
+            "order by": ["p"],
+            "limit": "10",
+            "skip": null
+        }
+    },
+    {
+        "查询对象":[
+            {
+                "category": "node",
+                "label": ["player"]
+            },
+            {
+                "category": "path",
+                "start_node_id_list": [],
+                "end_node": "待查询",
+                "edge_type_list": ["like"],
+                "length": null,
+                "have_direction": true
+            }
+        ],
+        "查询约束":["player.name CONTAINS 'Tim'", "REVERSELY"],
+        "返回格式":{
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象":[
+            {
+                "category": "path",
+                "start_node_id_list": ["Boris Diaw"],
+                "end_node": "待查询",
+                "edge_type_list": ["serve"],
+                "length": null,
+                "have_direction": true
+            },
+            {
+                "category": "edge",
+                "label": ["serve"],
+                "start_year": "待查询",
+                "end_year": "待查询"
+            }
+        ],
+        "查询约束":[],
+        "返回格式":{
+            "distinct": true,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象":[
+            {
+                "category": "node",
+                "label": ["player"],
+                "age": "待查询",
+                "id": "待查询"
+            },
+            {
+                "category": "path",
+                "start_node_id_list": [],
+                "end_node": "待查询",
+                "edge_type_list": ["like"],
+                "length": null,
+                "have_direction": true
+            }
+            
+        ],
+        "查询约束":["player.name CONTAINS 'Tim'", "REVERSELY"],
+        "返回格式":{
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象":[
+            {
+                "category": "path",
+                "start_node_id_list": ["Tim Duncan"],
+                "end_node": "待查询",
+                "edge_type_list": ["like", "serve"],
+                "length": null,
+                "have_direction": true
+            },
+            {
+                "category": "path",
+                "start_node_id_list": [],
+                "end_node": "待查询",
+                "edge_type_list": ["like"],
+                "length": "UPTO 3 STEPS",
+                "have_direction": true
+            }
+            
+        ],
+        "查询约束":["NOLOOP", "REVERSELY"],
+        "返回格式":{
+            "distinct": null,
+            "aggregation": [],
+            "order by": ["p"],
+            "limit": "5",
+            "skip": null
+        }
+    },
+    {
+        "查询对象":[
+            {
+                "category": "node",
+                "label": ["player"],
+                "id": "Tony Parker",
+                "name": "待查询"
+            },
+            {
+                "category": "path",
+                "start_node_id_list": [],
+                "end_node": "待查询",
+                "edge_type_list": ["like"],
+                "length": null,
+                "have_direction": true
+            }
+            
+        ],
+        "查询约束":[],
+        "返回格式":{
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    }
+]

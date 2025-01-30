@@ -1,0 +1,1038 @@
+[
+    {
+        "查询对象": [
+            {
+                "category": "edge",
+                "label": [
+                    "e1"
+                ],
+                "col3": "false",
+                "col2": "1.0",
+                "start_node": "待查询",
+                "end_node": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "edge",
+                "label": [
+                    "like"
+                ],
+                "likeness": "6",
+                "start_node": "待查询",
+                "end_node": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "edge",
+                "label": [
+                    "e1"
+                ],
+                "start_node": "待查询",
+                "end_node": "待查询"
+            }
+        ],
+        "查询约束": [
+            "e1.col1 >= 1",
+            "e1.col3 > false"
+        ],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "player"
+                ],
+                "age": "待查询"
+            }
+        ],
+        "查询约束": [
+            "player.age > 3"
+        ],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "edge",
+                "label": [
+                    "like"
+                ],
+                "likeness": "8",
+                "start_node": "待查询",
+                "end_node": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "t1"
+                ],
+                "col1": "羊🐏",
+                "id": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [
+                "id"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "player"
+                ],
+                "age": "待查询",
+                "id": "待查询"
+            }
+        ],
+        "查询约束": [
+            "player.age > 30.5"
+        ],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [
+                "id"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "player"
+                ],
+                "age": "待查询",
+                "id": "待查询"
+            }
+        ],
+        "查询约束": [
+            "player.age >= 29.5"
+        ],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [
+                "id"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "edge",
+                "label": [
+                    "e1"
+                ],
+                "start_node": "待查询",
+                "end_node": "待查询"
+            }
+        ],
+        "查询约束": [
+            "e1.col1 >= 1",
+            "e1.col3 >= false"
+        ],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "edge",
+                "label": [
+                    "follow"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [
+                "count"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "player"
+                ],
+                "name": "待查询",
+                "age": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "edge",
+                "label": [
+                    "e1"
+                ],
+                "start_node": "待查询",
+                "end_node": "待查询"
+            }
+        ],
+        "查询约束": [
+            "e1.col1 >= 🐏羊羊"
+        ],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "player"
+                ],
+                "name": "Tony Parker",
+                "id": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [
+                "id"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "player"
+                ],
+                "name": "Tim Duncan",
+                "age": "待查询",
+                "id": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [
+                "id"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "edge",
+                "label": [
+                    "e1"
+                ],
+                "start_node": "待查询",
+                "end_node": "待查询"
+            }
+        ],
+        "查询约束": [
+            "e1.col1 >= 1",
+            "e1.col5 >= time"
+        ],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "player"
+                ],
+                "age": "待查询",
+                "id": "待查询"
+            }
+        ],
+        "查询约束": [
+            "player.age >= 2"
+        ],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [
+                "id"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "t1"
+                ],
+                "col4": "durian",
+                "id": "待查询"
+            }
+        ],
+        "查询约束": [
+            "t1.col2 <= 2.0"
+        ],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [
+                "id"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "edge",
+                "label": [
+                    "like"
+                ],
+                "start_node": "待查询",
+                "end_node": "待查询",
+                "rank": "待查询"
+            }
+        ],
+        "查询约束": [
+            "like.likeness > 8"
+        ],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "edge",
+                "label": [
+                    "serve"
+                ],
+                "start_node": "待查询",
+                "end_node": "待查询",
+                "rank": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "player"
+                ],
+                "id": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [
+                "id",
+                "count"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "player"
+                ],
+                "name": "待查询",
+                "age": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "edge",
+                "label": [
+                    "e1"
+                ],
+                "start_node": "待查询",
+                "end_node": "待查询"
+            }
+        ],
+        "查询约束": [
+            "e1.col1 >= 1",
+            "e1.col8 > apple"
+        ],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "t1"
+                ],
+                "id": "待查询"
+            }
+        ],
+        "查询约束": [
+            "t1.col1 > aaaaa"
+        ],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [
+                "id"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "player"
+                ],
+                "age": "待查询",
+                "name": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "t1"
+                ],
+                "id": "待查询"
+            }
+        ],
+        "查询约束": [
+            "t1.col1 <= 2",
+            "t1.col8 <= banana"
+        ],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [
+                "id"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "player"
+                ],
+                "age": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [
+                "count"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "edge",
+                "label": [
+                    "e1"
+                ],
+                "start_node": "待查询",
+                "end_node": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "edge",
+                "label": [
+                    "e1"
+                ],
+                "start_node": "待查询",
+                "end_node": "待查询"
+            }
+        ],
+        "查询约束": [
+            "e1.col1 >= 1",
+            "e1.col5 > time"
+        ],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "player"
+                ],
+                "name": "Tim Duncan",
+                "id": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [
+                "id"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "edge",
+                "label": [
+                    "serve"
+                ],
+                "start_year": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "edge",
+                "label": [
+                    "any_shape"
+                ],
+                "geo": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "edge",
+                "label": [
+                    "e1"
+                ],
+                "start_node": "待查询",
+                "end_node": "待查询"
+            }
+        ],
+        "查询约束": [
+            "e1.col1 <= 2"
+        ],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "t1"
+                ],
+                "col3": "false",
+                "id": "待查询"
+            }
+        ],
+        "查询约束": [
+            "t1.col1 >= 1"
+        ],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [
+                "id"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "edge",
+                "label": [
+                    "e1"
+                ],
+                "col1": "1",
+                "col5": "time",
+                "start_node": "待查询",
+                "end_node": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "t1"
+                ],
+                "id": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [
+                "id"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "edge",
+                "label": [
+                    "like"
+                ],
+                "grade": "6",
+                "start_node": "待查询",
+                "end_node": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "t1"
+                ],
+                "col4": "banana",
+                "id": "待查询"
+            }
+        ],
+        "查询约束": [
+            "t1.col3 > true"
+        ],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [
+                "id"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "player"
+                ],
+                "age": "待查询",
+                "name": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "player"
+                ],
+                "name": "待查询",
+                "age": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "edge",
+                "label": [
+                    "e1"
+                ],
+                "start_node": "待查询",
+                "end_node": "待查询"
+            }
+        ],
+        "查询约束": [
+            "e1.col1 <= 2"
+        ],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "player"
+                ],
+                "age": "待查询",
+                "id": "待查询"
+            }
+        ],
+        "查询约束": [
+            "player.age >= 40.0"
+        ],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [
+                "id"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "t1"
+                ],
+                "id": "待查询"
+            }
+        ],
+        "查询约束": [
+            "t1.col1 <= 2",
+            "t1.col2 <= 2.0"
+        ],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [
+                "id"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "edge",
+                "label": [
+                    "e1"
+                ],
+                "col1": "1",
+                "col3": "false",
+                "start_node": "待查询",
+                "end_node": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "edge",
+                "label": [
+                    "e1"
+                ],
+                "start_node": "待查询",
+                "end_node": "待查询"
+            }
+        ],
+        "查询约束": [
+            "e1.col1 <= 2",
+            "e1.col3 <= true"
+        ],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "t1"
+                ],
+                "col4": "banana",
+                "col3": "true",
+                "id": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [
+                "id"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "edge",
+                "label": [
+                    "like"
+                ],
+                "start_node": "待查询",
+                "end_node": "待查询",
+                "rank": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "player"
+                ],
+                "age": "待查询",
+                "id": "待查询"
+            }
+        ],
+        "查询约束": [
+            "player.name > "
+        ],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [
+                "id"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    }
+]

@@ -1,0 +1,23 @@
+[
+    "LOOKUP ON character WHERE character.name=='宾利' YIELD properties(vertex).marital AS marital",
+    "LOOKUP ON character WHERE character.name=='坎坦克卢斯·诺特' YIELD properties(vertex).blood AS blood",
+    "LOOKUP ON character WHERE character.name=='马格纳斯·麦克唐纳' YIELD properties(vertex).born AS born",
+    "LOOKUP ON character WHERE character.name=='安东宁·多洛霍夫' YIELD properties(vertex).eye AS eye",
+    "LOOKUP ON character WHERE character.name=='女巫追捕小分队队长' YIELD properties(vertex).blood AS blood",
+    "LOOKUP ON character WHERE character.name=='阿布拉克萨斯·马尔福' YIELD properties(vertex).blood AS blood",
+    "LOOKUP ON character WHERE character.name=='兰斯洛特' YIELD properties(vertex).species AS species",
+    "LOOKUP ON character WHERE character.name=='塞缪尔·G·寇豪格' YIELD properties(vertex).gender AS gender",
+    "LOOKUP ON character WHERE character.name=='扎卡赖斯·史密斯' YIELD properties(vertex).eye AS eye",
+    "LOOKUP ON character WHERE character.name=='迪芙娜·弗马吉' YIELD properties(vertex).hair AS hair",
+    "LOOKUP ON character WHERE character.name=='密德莉' YIELD properties(vertex).eye AS eye",
+    "LOOKUP ON character WHERE character.name=='戴西·多德里奇' YIELD properties(vertex).eye AS eye",
+    "LOOKUP ON character WHERE character.name=='杜格德·麦克利沃' YIELD properties(vertex).dead AS dead",
+    "LOOKUP ON character WHERE character.name=='尼可·勒梅' YIELD properties(vertex).eye AS eye",
+    "LOOKUP ON character WHERE character.name=='弗雷德·韦斯莱' YIELD properties(vertex).eye AS eye",
+    "LOOKUP ON character WHERE character.name=='利奥波迪娜·斯梅绥克' YIELD properties(vertex).species AS species",
+    "LOOKUP ON character WHERE character.name=='巴希达·巴沙特' YIELD properties(vertex).eye AS eye",
+    "LOOKUP ON character WHERE character.name=='卢卡斯·皮奎利' YIELD properties(vertex).born AS born",
+    "LOOKUP ON character WHERE character.name=='诺比·利奇' YIELD properties(vertex).gender AS gender",
+    "LOOKUP ON character WHERE character.name=='安克谢斯·奥斯博特' YIELD properties(vertex).born AS born",
+    "LOOKUP ON character WHERE character.name=='法尔科·艾萨伦' YIELD properties(vertex).eye AS eye"
+]

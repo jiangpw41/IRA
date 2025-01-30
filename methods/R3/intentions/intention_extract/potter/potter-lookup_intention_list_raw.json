@@ -1,0 +1,569 @@
+[
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "character",
+                "properties": {
+                    "name": "宾利",
+                    "marital": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "character",
+                "properties": {
+                    "name": "坎坦克卢斯·诺特",
+                    "blood": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "character",
+                "properties": {
+                    "name": "马格纳斯·麦克唐纳",
+                    "born": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "character",
+                "properties": {
+                    "name": "安东宁·多洛霍夫",
+                    "eye": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "character",
+                "properties": {
+                    "name": "女巫追捕小分队队长",
+                    "blood": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "character",
+                "properties": {
+                    "name": "阿布拉克萨斯·马尔福",
+                    "blood": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "character",
+                "properties": {
+                    "name": "兰斯洛特",
+                    "species": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "character",
+                "properties": {
+                    "name": "塞缪尔·G·寇豪格",
+                    "gender": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "character",
+                "properties": {
+                    "name": "扎卡赖斯·史密斯",
+                    "eye": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "character",
+                "properties": {
+                    "name": "迪芙娜·弗马吉",
+                    "hair": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "character",
+                "properties": {
+                    "name": "密德莉",
+                    "eye": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "character",
+                "properties": {
+                    "name": "戴西·多德里奇",
+                    "eye": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "character",
+                "properties": {
+                    "name": "杜格德·麦克利沃",
+                    "dead": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "character",
+                "properties": {
+                    "name": "尼可·勒梅",
+                    "eye": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "character",
+                "properties": {
+                    "name": "弗雷德·韦斯莱",
+                    "eye": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "character",
+                "properties": {
+                    "name": "利奥波迪娜·斯梅绥克",
+                    "species": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "character",
+                "properties": {
+                    "name": "巴希达·巴沙特",
+                    "eye": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "character",
+                "properties": {
+                    "name": "卢卡斯·皮奎利",
+                    "born": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "character",
+                "properties": {
+                    "name": "诺比·利奇",
+                    "gender": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "character",
+                "properties": {
+                    "name": "安克谢斯·奥斯博特",
+                    "born": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "character",
+                "properties": {
+                    "name": "法尔科·艾萨伦",
+                    "eye": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    }
+]

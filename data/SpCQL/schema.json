@@ -1,0 +1,11 @@
+{
+    "Nodes": {
+      "ENTITY": "{'tag': 'ENTITY', 'properties': [('name', 'string'), ('location', 'string'), ('time', 'Long')]}"
+    },
+    "Relations": {
+      "Relationship": "{'edge': 'Relationship','start_tag':'ENTITY','end_tag':'ENTITY', 'properties': [('name', 'string')]}",
+      "Describe": "{'edge': 'Describe','start_tag':'ENTITY','end_tag':'ENTITY', 'properties': [('name', 'string')]}",
+      "Tag": "{'edge': 'Tag','start_tag':'ENTITY','end_tag':'ENTITY', 'properties': [('name', 'string')]}",
+      "Ambiguity": "{'edge': 'Ambiguity','start_tag':'ENTITY','end_tag':'ENTITY', 'properties': [('name', 'string')]}"
+    }
+}

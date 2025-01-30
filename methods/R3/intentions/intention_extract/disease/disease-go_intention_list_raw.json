@@ -1,0 +1,1379 @@
+[
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "遗传性凝血因子ⅩⅢ缺乏"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "慢性淋巴细胞性白血病"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "软组织损伤"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "胃病"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "戊型病毒性肝炎"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "白血病"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "肝炎"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "无脉络膜症"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "霍奇金病"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "呼吸系统疾病伴发的精神障碍"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "脑瘤"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "白血病"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "霍奇金病"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "心脏病"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "纵隔非霍奇金淋巴瘤"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "脐疝"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "高血压"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "风湿病"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "高血压"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "遗传性凝血因子ⅩⅢ缺乏"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "戊型病毒性肝炎"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "戊型病毒性肝炎"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "糖尿病"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "气虚血瘀证"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "肌纤维组织炎"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "支气管炎"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "软纤维瘤"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "高血压"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "高血压"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "霍奇金病"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "肺炎"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "急性乳腺炎"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "细菌性阴道病"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "疰夏"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "风湿病"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "肝炎"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "高血压"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "霍奇金病"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "外阴银屑病"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "戊型病毒性肝炎"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "霍奇金病"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "戊型病毒性肝炎"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "糖尿病"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "厥脱"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "心脏病"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "肺炎"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "心脏病"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "肺癌"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "丙型肝炎病毒感染与肾小球肾炎"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "血红蛋白E病"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "白血病"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge);"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    }
+]

@@ -1,0 +1,380 @@
+[
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "name": "宾利",
+                "marital": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "name": "坎坦克卢斯·诺特",
+                "blood": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "name": "马格纳斯·麦克唐纳",
+                "born": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "name": "安东宁·多洛霍夫",
+                "eye": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "name": "女巫追捕小分队队长",
+                "blood": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "name": "阿布拉克萨斯·马尔福",
+                "blood": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "name": "兰斯洛特",
+                "species": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "name": "塞缪尔·G·寇豪格",
+                "gender": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "name": "扎卡赖斯·史密斯",
+                "eye": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "name": "迪芙娜·弗马吉",
+                "hair": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "name": "密德莉",
+                "eye": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "name": "戴西·多德里奇",
+                "eye": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "name": "杜格德·麦克利沃",
+                "dead": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "name": "尼可·勒梅",
+                "eye": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "name": "弗雷德·韦斯莱",
+                "eye": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "name": "利奥波迪娜·斯梅绥克",
+                "species": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "name": "巴希达·巴沙特",
+                "eye": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "name": "卢卡斯·皮奎利",
+                "born": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "name": "诺比·利奇",
+                "gender": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "name": "安克谢斯·奥斯博特",
+                "born": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "name": "法尔科·艾萨伦",
+                "eye": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    }
+]

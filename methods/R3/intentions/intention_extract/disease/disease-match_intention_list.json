@@ -1,0 +1,2616 @@
+[
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "疰夏",
+                "prevent": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "小儿莫拉雷脑膜炎",
+                "cured_prob": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "疥疮",
+                "prevent": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "小儿营养不良性消瘦",
+                "cause": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "小儿中暑和暑热症",
+                "prevent": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "胃炎",
+                "cure": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "遗传性耳瘘",
+                "cured_prob": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "高血压",
+                "symptom": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "待查询",
+                "drug": "四物颗粒"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "小儿糖原贮积病Ⅳ型",
+                "cure": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "三叉神经痛",
+                "get_prob": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "多发性骨骺发育不良",
+                "food": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "label": [],
+                "start_node": {
+                    "label": [
+                        "disease"
+                    ],
+                    "name": "心脏病",
+                    "drug": "<相关>"
+                },
+                "end_node": {
+                    "label": [
+                        "disease"
+                    ],
+                    "name": "待查询",
+                    "drug": "<相关>"
+                },
+                "length": null,
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "待查询",
+                "drug": "前列通片"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "小肠气痛",
+                "easy_get": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "下消化道出血",
+                "cured_prob": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "餐后血糖过低症",
+                "cure_lasttime": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "母儿ABO血型不合",
+                "symptom": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "无排卵性不孕症",
+                "easy_get": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "酒精中毒性神经疾病",
+                "cause": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "accompany_with"
+                ],
+                "start_node": {
+                    "label": [
+                        "disease"
+                    ],
+                    "name": "待查询"
+                },
+                "end_node": {
+                    "label": [
+                        "disease"
+                    ],
+                    "name": "脾虚泄泻"
+                },
+                "have_direction": true
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "骨外软骨肉瘤",
+                "cause": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "小儿中暑和暑热症",
+                "easy_get": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "哮喘",
+                "symptom": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "急性乳腺炎",
+                "symptom": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "疥疮",
+                "cause": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "待查询",
+                "drug": "眼氨肽滴眼液"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "乳头肌功能不全",
+                "easy_get": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "糖尿病",
+                "cure_lasttime": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "戊型病毒性肝炎",
+                "symptom": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "小儿莫拉雷脑膜炎",
+                "symptom": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "足外翻",
+                "get_prob": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "慢性淋巴细胞性白血病",
+                "cause": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "赤丝虬脉",
+                "cured_prob": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "糖尿病",
+                "food": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "糖尿病",
+                "symptom": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "三叉神经痛",
+                "cause": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "待查询",
+                "cure": "药物治疗"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [
+                "count()"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "待查询",
+                "drug": "伤痛宁膏"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "小儿雅克什综合征",
+                "symptom": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "房室管畸形",
+                "symptom": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "待查询",
+                "drug": "脑血康丸"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "迁延性昏迷",
+                "cure_lasttime": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "accompany_with"
+                ],
+                "start_node": {
+                    "label": [
+                        "disease"
+                    ],
+                    "name": "待查询"
+                },
+                "end_node": {
+                    "label": [
+                        "disease"
+                    ],
+                    "name": "头痛"
+                },
+                "have_direction": true
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "脐疝",
+                "cure_lasttime": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "accompany_with"
+                ],
+                "start_node": {
+                    "label": [
+                        "disease"
+                    ],
+                    "name": "待查询"
+                },
+                "end_node": {
+                    "label": [
+                        "disease"
+                    ],
+                    "name": "糖尿病"
+                },
+                "have_direction": true
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "复发性线性棘层松解性皮肤病",
+                "easy_get": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "母儿ABO血型不合",
+                "prevent": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "颜面部疖痈",
+                "easy_get": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "特发性非硬化性门脉高压综合征",
+                "get_prob": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "餐后血糖过低症",
+                "cured_prob": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "待查询",
+                "drug": "全鹿丸"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "待查询",
+                "cure": "康复治疗"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [
+                "count()"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "三尖瓣闭锁",
+                "cause": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "肱骨内髁骨折",
+                "easy_get": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "霍奇金病",
+                "symptom": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "赤丝虬脉",
+                "prevent": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "戊型病毒性肝炎",
+                "food": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "胰腺囊腺瘤和囊腺癌",
+                "cured_prob": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "戊型病毒性肝炎",
+                "cause": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "小儿糖原贮积病Ⅳ型",
+                "symptom": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "三尖瓣闭锁",
+                "prevent": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "cure": "物理治疗"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [
+                "count()"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "磨牙",
+                "prevent": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "迁延性昏迷",
+                "easy_get": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "白血病",
+                "symptom": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "accompany_with"
+                ],
+                "start_node": {
+                    "label": [
+                        "disease"
+                    ],
+                    "name": "待查询"
+                },
+                "end_node": {
+                    "label": [
+                        "disease"
+                    ],
+                    "name": "心脏病"
+                },
+                "have_direction": true
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "坐骨神经盆腔出口狭窄症",
+                "food": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "眼睑热性疱疹",
+                "cure_lasttime": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "白血病",
+                "food": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "酒精中毒性神经疾病",
+                "symptom": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "肝炎",
+                "drug": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "肌纤维组织炎",
+                "cure_lasttime": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "待查询",
+                "department": "耳鼻喉科"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "偏头痛",
+                "prevent": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "胰腺囊腺瘤和囊腺癌",
+                "cure_lasttime": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "岩骨斜坡脑膜瘤",
+                "cure_lasttime": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "高血压",
+                "cause": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "气虚血瘀证",
+                "cure_lasttime": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "高血压",
+                "food": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "偏头痛",
+                "cause": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "霍奇金病",
+                "cause": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "遗传性耳瘘",
+                "prevent": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "特发性非硬化性门脉高压综合征",
+                "cure_lasttime": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "心脏病",
+                "food": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "纵隔非霍奇金淋巴瘤",
+                "symptom": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "眼颧部褐蓝痣",
+                "cure_lasttime": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "额叶癫痫",
+                "symptom": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "老年人恶性心包积液",
+                "symptom": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "睾丸肿瘤",
+                "symptom": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "高血压",
+                "food": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "小肠气痛",
+                "cause": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "足外翻",
+                "symptom": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "血稠",
+                "cured_prob": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "血红蛋白E病",
+                "easy_get": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "肺炎",
+                "check": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "肾上腺素能依赖性尖端扭转性室性心动过速",
+                "cured_prob": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "睾丸肿瘤",
+                "cured_prob": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "accompany_with"
+                ],
+                "start_node": {
+                    "label": [
+                        "disease"
+                    ],
+                    "name": "待查询"
+                },
+                "end_node": {
+                    "label": [
+                        "disease"
+                    ],
+                    "name": "高血压"
+                },
+                "have_direction": true
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "小儿营养不良性消瘦",
+                "cure_lasttime": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "肱骨内髁骨折",
+                "cure_lasttime": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "蝶骨嵴脑膜瘤眼部病变",
+                "symptom": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "神经棘红细胞增多症",
+                "easy_get": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "泪腺炎",
+                "symptom": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "老年人支气管扩张",
+                "symptom": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "血稠",
+                "prevent": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "根尖脓肿",
+                "easy_get": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "幼年型慢性关节炎及其伴发的葡萄膜炎",
+                "get_prob": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "心脏病",
+                "department": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "糖尿病",
+                "food": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "腹腔干动脉瘤",
+                "prevent": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "根尖脓肿",
+                "cure_lasttime": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "待查询",
+                "department": "耳鼻喉科"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "蝶骨嵴脑膜瘤眼部病变",
+                "prevent": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "待查询",
+                "drug": "龙虎人丹"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "泪腺炎",
+                "prevent": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "软组织损伤",
+                "prevent": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "待查询",
+                "cure": "手术治疗"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [
+                "count()"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "霍奇金病",
+                "cure_lasttime": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "肾上腺素能依赖性尖端扭转性室性心动过速",
+                "symptom": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "外阴银屑病",
+                "symptom": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "急性肾功能不全",
+                "symptom": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "下消化道出血",
+                "cause": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "呼吸系统疾病伴发的精神障碍",
+                "cured_prob": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "厥脱",
+                "food": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "细菌性阴道病",
+                "easy_get": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "幼年型慢性关节炎及其伴发的葡萄膜炎",
+                "cured_prob": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    }
+]

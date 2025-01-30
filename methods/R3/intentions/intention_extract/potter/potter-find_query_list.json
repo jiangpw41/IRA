@@ -1,0 +1,9 @@
+[
+    "FIND SHORTEST PATH FROM \"哈方·蒙特\" TO \"约塞利德·瓦德考克\" OVER * YIELD path AS p",
+    "FIND SHORTEST PATH FROM \"赫敏·格兰杰\" TO \"哈利·波特\" OVER * YIELD path AS p",
+    "FIND SHORTEST PATH FROM \"托比亚·斯内普\" TO \"帕金 (找球手)\" OVER * YIELD path AS p",
+    "FIND SHORTEST PATH FROM \"詹姆·小天狼星·波特\" TO \"德里安·普塞\" OVER * YIELD path AS p",
+    "FIND SHORTEST PATH FROM \"赫尔曼·温廷汉姆\" TO \"卢克丽霞·布莱克\" OVER * YIELD path AS p",
+    "FIND SHORTEST PATH FROM \"西弗勒斯·斯内普\" TO \"多洛雷斯·乌姆里奇\" OVER * YIELD path AS p",
+    "FIND SHORTEST PATH FROM \"吉米·珀克斯\" TO \"塞缪尔·G·寇豪格\" OVER * YIELD path AS p"
+]

@@ -1,0 +1,1068 @@
+[
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "Tim Duncan"
+                ],
+                "end_node_id_list": [
+                    "Tony Parker"
+                ],
+                "edge_type_list": [
+                    "like"
+                ],
+                "length": [
+                    "UPTO 3 STEPS"
+                ],
+                "have_direction": true
+            }
+        ],
+        "查询约束": [
+            "noloop"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "Tony Parker",
+                    "Yao Ming"
+                ],
+                "end_node_id_list": [
+                    "Manu Ginobili",
+                    "Spurs"
+                ],
+                "edge_type_list": [
+                    "*"
+                ],
+                "length": [],
+                "have_direction": true
+            }
+        ],
+        "查询约束": [
+            "shortest"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "Tim Duncan"
+                ],
+                "end_node_id_list": [
+                    "Tony Parker",
+                    "Spurs"
+                ],
+                "edge_type_list": [
+                    "like",
+                    "serve"
+                ],
+                "length": [
+                    "UPTO 3 STEPS"
+                ],
+                "have_direction": true
+            }
+        ],
+        "查询约束": [
+            "shortest"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "Shaquille O\\'Neal"
+                ],
+                "end_node_id_list": [
+                    "Manu Ginobili",
+                    "Spurs"
+                ],
+                "edge_type_list": [
+                    "*"
+                ],
+                "length": [
+                    "UPTO 5 STEPS"
+                ],
+                "have_direction": true
+            }
+        ],
+        "查询约束": [
+            "shortest"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "Tim Duncan"
+                ],
+                "end_node_id_list": [
+                    "Tony Parker",
+                    "LaMarcus Aldridge"
+                ],
+                "edge_type_list": [
+                    "like"
+                ],
+                "length": [
+                    "UPTO 3 STEPS"
+                ],
+                "have_direction": true
+            }
+        ],
+        "查询约束": [
+            "noloop"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "Tim Duncan"
+                ],
+                "end_node_id_list": [
+                    "Yao Ming"
+                ],
+                "edge_type_list": [
+                    "*"
+                ],
+                "length": [],
+                "have_direction": true
+            }
+        ],
+        "查询约束": [
+            "all"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "Tim Duncan"
+                ],
+                "end_node_id_list": [
+                    "Nobody",
+                    "Spur"
+                ],
+                "edge_type_list": [
+                    "like"
+                ],
+                "length": [
+                    "UPTO 3 STEPS"
+                ],
+                "have_direction": true
+            }
+        ],
+        "查询约束": [
+            "noloop"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "Tony Parker"
+                ],
+                "end_node_id_list": [
+                    "Yao Ming"
+                ],
+                "edge_type_list": [
+                    "*"
+                ],
+                "length": [],
+                "have_direction": true
+            }
+        ],
+        "查询约束": [
+            "all"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "Tim Duncan"
+                ],
+                "end_node_id_list": [
+                    "Tony Parker"
+                ],
+                "edge_type_list": [
+                    "like"
+                ],
+                "length": [
+                    "UPTO 3 STEPS"
+                ],
+                "have_direction": true
+            }
+        ],
+        "查询约束": [
+            "all"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "Tiago Splitter"
+                ],
+                "end_node_id_list": [
+                    "LaMarcus Aldridge"
+                ],
+                "edge_type_list": [
+                    "*"
+                ],
+                "length": [],
+                "have_direction": true
+            }
+        ],
+        "查询约束": [
+            "shortest"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "Yao Ming"
+                ],
+                "end_node_id_list": [
+                    "Danny Green"
+                ],
+                "edge_type_list": [
+                    "*"
+                ],
+                "length": [],
+                "have_direction": true
+            }
+        ],
+        "查询约束": [
+            "all"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "player102"
+                ],
+                "end_node_id_list": [
+                    "team204"
+                ],
+                "edge_type_list": [
+                    "*"
+                ],
+                "length": [],
+                "have_direction": true
+            }
+        ],
+        "查询约束": [
+            "shortest"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "Yao Ming"
+                ],
+                "end_node_id_list": [
+                    "Tony Parker",
+                    "Tracy McGrady"
+                ],
+                "edge_type_list": [
+                    "like",
+                    "serve"
+                ],
+                "length": [
+                    "UPTO 5 STEPS"
+                ],
+                "have_direction": true
+            }
+        ],
+        "查询约束": [
+            "shortest"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "Tim Duncan"
+                ],
+                "end_node_id_list": [
+                    "Tony Parker",
+                    "Manu Ginobili"
+                ],
+                "edge_type_list": [
+                    "like"
+                ],
+                "length": [
+                    "UPTO 3 STEPS"
+                ],
+                "have_direction": true
+            }
+        ],
+        "查询约束": [
+            "noloop"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "player100"
+                ],
+                "end_node_id_list": [
+                    "team204"
+                ],
+                "edge_type_list": [
+                    "*"
+                ],
+                "length": [],
+                "have_direction": true
+            }
+        ],
+        "查询约束": [
+            "noloop"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "Yao Ming"
+                ],
+                "end_node_id_list": [
+                    "Danny Green"
+                ],
+                "edge_type_list": [
+                    "*"
+                ],
+                "length": [],
+                "have_direction": true
+            }
+        ],
+        "查询约束": [
+            "all"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "Tim Duncan",
+                    "Tiago Splitter"
+                ],
+                "end_node_id_list": [
+                    "Tony Parker",
+                    "Spurs"
+                ],
+                "edge_type_list": [
+                    "like",
+                    "serve"
+                ],
+                "length": [
+                    "UPTO 5 STEPS"
+                ],
+                "have_direction": true
+            }
+        ],
+        "查询约束": [
+            "shortest"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "Tim Duncan"
+                ],
+                "end_node_id_list": [
+                    "Tony Parker",
+                    "Spurs"
+                ],
+                "edge_type_list": [
+                    "like",
+                    "serve"
+                ],
+                "length": [
+                    "UPTO 3 STEPS"
+                ],
+                "have_direction": true
+            }
+        ],
+        "查询约束": [
+            "noloop"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "Tony Parker",
+                    "Yao Ming"
+                ],
+                "end_node_id_list": [
+                    "Manu Ginobili",
+                    "Spurs"
+                ],
+                "edge_type_list": [
+                    "*"
+                ],
+                "length": [
+                    "UPTO 5 STEPS"
+                ],
+                "have_direction": true
+            }
+        ],
+        "查询约束": [
+            "shortest"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "Tim Duncan"
+                ],
+                "end_node_id_list": [
+                    "Nobody"
+                ],
+                "edge_type_list": [
+                    "like"
+                ],
+                "length": [
+                    "UPTO 3 STEPS"
+                ],
+                "have_direction": true
+            }
+        ],
+        "查询约束": [
+            "noloop"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "Tiago Splitter"
+                ],
+                "end_node_id_list": [
+                    "Tony Parker"
+                ],
+                "edge_type_list": [
+                    "*"
+                ],
+                "length": [
+                    "UPTO 1 STEPS"
+                ],
+                "have_direction": true
+            }
+        ],
+        "查询约束": [
+            "shortest"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "Tim Duncan"
+                ],
+                "end_node_id_list": [
+                    "Tony Parker"
+                ],
+                "edge_type_list": [
+                    "like"
+                ],
+                "length": [
+                    "UPTO 3 STEPS"
+                ],
+                "have_direction": true
+            }
+        ],
+        "查询约束": [
+            "noloop"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [],
+                "end_node_id_list": [],
+                "edge_type_list": [
+                    "like",
+                    ""
+                ],
+                "length": [
+                    "UPTO 5 STEPS"
+                ],
+                "have_direction": true
+            }
+        ],
+        "查询约束": [
+            "shortest"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "Tim Duncan"
+                ],
+                "end_node_id_list": [
+                    "LaMarcus Aldridge"
+                ],
+                "edge_type_list": [
+                    "like"
+                ],
+                "length": [],
+                "have_direction": true
+            }
+        ],
+        "查询约束": [
+            "shortest"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [],
+                "end_node_id_list": [
+                    "Manu Ginobili"
+                ],
+                "edge_type_list": [
+                    "*"
+                ],
+                "length": [
+                    "UPTO 5 STEPS"
+                ],
+                "have_direction": true
+            }
+        ],
+        "查询约束": [
+            "shortest"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "Tim Duncan"
+                ],
+                "end_node_id_list": [
+                    "Tony Parker"
+                ],
+                "edge_type_list": [
+                    "like"
+                ],
+                "length": [],
+                "have_direction": true
+            }
+        ],
+        "查询约束": [
+            "shortest"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "Tim Duncan"
+                ],
+                "end_node_id_list": [
+                    "Tony Parker",
+                    "LaMarcus Aldridge"
+                ],
+                "edge_type_list": [
+                    "like"
+                ],
+                "length": [
+                    "UPTO 3 STEPS"
+                ],
+                "have_direction": true
+            }
+        ],
+        "查询约束": [
+            "shortest"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "Yao Ming"
+                ],
+                "end_node_id_list": [
+                    "Danny Green"
+                ],
+                "edge_type_list": [
+                    "*"
+                ],
+                "length": [],
+                "have_direction": true
+            }
+        ],
+        "查询约束": [
+            "all"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "Tim Duncan"
+                ],
+                "end_node_id_list": [
+                    "Tony Parker",
+                    "LaMarcus Aldridge"
+                ],
+                "edge_type_list": [
+                    "like"
+                ],
+                "length": [
+                    "UPTO 3 STEPS"
+                ],
+                "have_direction": true
+            }
+        ],
+        "查询约束": [
+            "all"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "Tony Parker",
+                    "Yao Ming"
+                ],
+                "end_node_id_list": [
+                    "Manu Ginobili",
+                    "Spurs"
+                ],
+                "edge_type_list": [
+                    "*"
+                ],
+                "length": [],
+                "have_direction": true
+            }
+        ],
+        "查询约束": [
+            "shortest"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "Tiago Splitter"
+                ],
+                "end_node_id_list": [
+                    "LaMarcus Aldridge"
+                ],
+                "edge_type_list": [
+                    "like",
+                    ""
+                ],
+                "length": [],
+                "have_direction": true
+            }
+        ],
+        "查询约束": [
+            "shortest"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "Tim Duncan"
+                ],
+                "end_node_id_list": [
+                    "Tony Parker"
+                ],
+                "edge_type_list": [
+                    "like"
+                ],
+                "length": [],
+                "have_direction": true
+            }
+        ],
+        "查询约束": [
+            "shortest"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "Tim Duncan"
+                ],
+                "end_node_id_list": [
+                    "Nobody",
+                    "Spur"
+                ],
+                "edge_type_list": [
+                    "like"
+                ],
+                "length": [
+                    "UPTO 3 STEPS"
+                ],
+                "have_direction": true
+            }
+        ],
+        "查询约束": [
+            "all"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "Tony Parker",
+                    "Yao Ming"
+                ],
+                "end_node_id_list": [
+                    "Manu Ginobili",
+                    "Spurs"
+                ],
+                "edge_type_list": [
+                    "*"
+                ],
+                "length": [],
+                "have_direction": true
+            }
+        ],
+        "查询约束": [
+            "shortest"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "team204"
+                ],
+                "end_node_id_list": [
+                    "player100"
+                ],
+                "edge_type_list": [
+                    "*"
+                ],
+                "length": [],
+                "have_direction": true
+            }
+        ],
+        "查询约束": [
+            "shortest"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "player100"
+                ],
+                "end_node_id_list": [
+                    "team204"
+                ],
+                "edge_type_list": [
+                    "*"
+                ],
+                "length": [],
+                "have_direction": true
+            }
+        ],
+        "查询约束": [
+            "all"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    }
+]

@@ -1,0 +1,13 @@
+[
+    "GET SUBGRAPH 1 STEPS FROM \"胃痛\" YIELD VERTICES AS nodes, EDGES AS all_edges",
+    "GET SUBGRAPH 1 STEPS FROM \"感冒\" YIELD VERTICES AS nodes, EDGES AS all_edges;",
+    "GET SUBGRAPH 1 STEPS FROM \"糖尿病\" YIELD VERTICES AS nodes, EDGES AS all_edges",
+    "GET SUBGRAPH 1 STEPS FROM \"神经棘红细胞增多症\" YIELD VERTICES AS nodes, EDGES AS all_edges",
+    "GET SUBGRAPH 1 STEPS FROM \"咳嗽\" YIELD VERTICES AS nodes, EDGES AS all_edges;",
+    "GET SUBGRAPH 1 STEPS FROM \"糖尿病\" YIELD VERTICES AS nodes, EDGES AS all_edges;",
+    "GET SUBGRAPH 1 STEPS FROM \"头痛\" YIELD VERTICES AS nodes, EDGES AS all_edges",
+    "GET SUBGRAPH 1 STEPS FROM \"胸痛\" YIELD VERTICES AS nodes, EDGES AS all_edges",
+    "GET SUBGRAPH 1 STEPS FROM \"高血压\" YIELD VERTICES AS nodes, EDGES AS all_edges",
+    "GET SUBGRAPH 1 STEPS FROM \"心悸\" YIELD VERTICES AS nodes, EDGES AS all_edges;",
+    "GET SUBGRAPH 1 STEPS FROM \"高血压\" YIELD VERTICES AS nodes, EDGES AS all_edges;"
+]

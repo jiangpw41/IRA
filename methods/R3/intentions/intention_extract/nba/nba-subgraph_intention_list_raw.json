@@ -1,0 +1,537 @@
+[
+    {
+        "query_pattern": "sub_graph",
+        "recommend_keywords": "get subgraph",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {
+                    "IN": [
+                        "like",
+                        "serve"
+                    ]
+                }
+            }
+        ],
+        "restrict": [
+            "WITH PROP",
+            "2 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "EDGES"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GET SUBGRAPH",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "sub_graph",
+        "recommend_keywords": "get subgraph",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "WITH PROP"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GET SUBGRAPH",
+            "LIMIT"
+        ]
+    },
+    {
+        "query_pattern": "sub_graph",
+        "recommend_keywords": "get subgraph",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {
+                    "BOTH": [
+                        "like"
+                    ]
+                }
+            }
+        ],
+        "restrict": [
+            "4 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "vertices",
+                "edges"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GET SUBGRAPH",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "sub_graph",
+        "recommend_keywords": "get subgraph",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "player101"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "WITH PROP",
+            "2 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "VERTICES",
+                "EDGES"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GET SUBGRAPH",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "sub_graph",
+        "recommend_keywords": "get subgraph",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {
+                    "BOTH": [
+                        "like"
+                    ]
+                }
+            }
+        ],
+        "restrict": [
+            "4 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "VERTICES",
+                "EDGES"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GET SUBGRAPH",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "sub_graph",
+        "recommend_keywords": "get subgraph",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "player101"
+                ],
+                "edge": {
+                    "IN": [
+                        "follow"
+                    ]
+                }
+            }
+        ],
+        "restrict": [
+            "1 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "VERTICES",
+                "EDGES"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GET SUBGRAPH",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "sub_graph",
+        "recommend_keywords": "get subgraph",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {
+                    "IN": [
+                        "like"
+                    ],
+                    "OUT": [
+                        "serve"
+                    ]
+                }
+            }
+        ],
+        "restrict": [
+            "WITH PROP",
+            "2 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "vertices",
+                "edges"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GET SUBGRAPH",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "sub_graph",
+        "recommend_keywords": "get subgraph",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {
+                    "OUT": [
+                        "like"
+                    ]
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "vertices"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GET SUBGRAPH",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "sub_graph",
+        "recommend_keywords": "get subgraph",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "WITH PROP"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GET SUBGRAPH",
+            "LIMIT"
+        ]
+    },
+    {
+        "query_pattern": "sub_graph",
+        "recommend_keywords": "get subgraph",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "player101"
+                ],
+                "edge": {
+                    "OUT": [
+                        "serve"
+                    ]
+                }
+            }
+        ],
+        "restrict": [
+            "WITH PROP",
+            "1 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "VERTICES",
+                "EDGES"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GET SUBGRAPH",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "sub_graph",
+        "recommend_keywords": "get subgraph",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "WITH PROP",
+            "2 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "vertices",
+                "edges"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GET SUBGRAPH",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "sub_graph",
+        "recommend_keywords": "get subgraph",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "player101"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "1 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "VERTICES",
+                "EDGES"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GET SUBGRAPH",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "sub_graph",
+        "recommend_keywords": "get subgraph",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {
+                    "IN": [
+                        "like",
+                        "serve"
+                    ]
+                }
+            }
+        ],
+        "restrict": [
+            "WITH PROP",
+            "2 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "vertices",
+                "edges"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GET SUBGRAPH",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "sub_graph",
+        "recommend_keywords": "get subgraph",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {
+                    "BOTH": [
+                        "like"
+                    ]
+                }
+            }
+        ],
+        "restrict": [
+            "2 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "edges"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GET SUBGRAPH",
+            "YIELD",
+            "UNWIND",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "sub_graph",
+        "recommend_keywords": "get subgraph",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "Tony Parker"
+                ],
+                "edge": {
+                    "IN": [
+                        "teammate"
+                    ],
+                    "OUT": [
+                        "serve"
+                    ],
+                    "BOTH": [
+                        "like"
+                    ]
+                }
+            }
+        ],
+        "restrict": [
+            "WITH PROP",
+            "5 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "VERTICES",
+                "EDGES"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GET SUBGRAPH",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "sub_graph",
+        "recommend_keywords": "get subgraph",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "player101"
+                ],
+                "edge": {
+                    "OUT": [
+                        "follow"
+                    ]
+                }
+            }
+        ],
+        "restrict": [
+            "100 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "VERTICES",
+                "EDGES"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GET SUBGRAPH",
+            "YIELD"
+        ]
+    }
+]

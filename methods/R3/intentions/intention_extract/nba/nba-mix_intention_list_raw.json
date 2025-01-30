@@ -1,0 +1,782 @@
+[
+    {
+        "query_pattern": "mixed",
+        "related_objects": [
+            {
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "serve._src AS id ",
+            "vertices as nodes, edges as relationships"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": null,
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "go",
+            "yield",
+            "get subgraph",
+            "yield"
+        ]
+    },
+    {
+        "query_pattern": "mixed",
+        "related_objects": [
+            {
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {}
+            },
+            {
+                "start_node": [],
+                "end_node": [],
+                "edge": [
+                    "like"
+                ],
+                "range": [
+                    "UPTO 3 STEPS"
+                ]
+            }
+        ],
+        "restrict": [
+            "like._dst AS src, serve._src AS dst;",
+            "all",
+            "path as p "
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": null,
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "go",
+            "yield",
+            "find",
+            "yield",
+            "order by",
+            "limit"
+        ]
+    },
+    {
+        "query_pattern": "mixed",
+        "related_objects": [
+            {
+                "start_node": [
+                    "Yao Ming"
+                ],
+                "edge": {}
+            },
+            {
+                "start_node": [],
+                "end_node": [
+                    "Tony Parker"
+                ],
+                "edge": [
+                    "like,"
+                ],
+                "range": [
+                    "UPTO 5 STEPS"
+                ]
+            }
+        ],
+        "restrict": [
+            "like._dst AS src;",
+            "shortest",
+            "path as p"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": null,
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "go",
+            "yield",
+            "find",
+            "yield"
+        ]
+    },
+    {
+        "query_pattern": "mixed",
+        "related_objects": [
+            {
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {}
+            },
+            {
+                "start_node": [],
+                "end_node": [],
+                "edge": [
+                    "like"
+                ],
+                "range": []
+            }
+        ],
+        "restrict": [
+            "like._dst AS src, serve._src AS dst;",
+            "noloop",
+            "path as p "
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": null,
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "go",
+            "yield",
+            "find",
+            "where",
+            "yield",
+            "order by",
+            "limit"
+        ]
+    },
+    {
+        "query_pattern": "mixed",
+        "related_objects": [
+            {
+                "label": "player"
+            },
+            {
+                "type": "vertex",
+                "label": [
+                    "player",
+                    "$-.id"
+                ]
+            }
+        ],
+        "restrict": [
+            "id(vertex) as id ",
+            "player.name"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": null,
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "lookup on",
+            "where",
+            "yield",
+            "fetch prop on",
+            "yield"
+        ]
+    },
+    {
+        "query_pattern": "mixed",
+        "related_objects": [
+            {
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {}
+            },
+            {
+                "start_node": [],
+                "end_node": [],
+                "edge": [
+                    "like"
+                ],
+                "range": [
+                    "UPTO 3 STEPS"
+                ]
+            }
+        ],
+        "restrict": [
+            "like._dst AS src, serve._src AS dst ",
+            "all",
+            "path as p"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": null,
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "go",
+            "yield",
+            "find",
+            "yield"
+        ]
+    },
+    {
+        "query_pattern": "mixed",
+        "related_objects": [
+            {
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {}
+            },
+            {
+                "start_node": [],
+                "end_node": [],
+                "edge": [
+                    "like"
+                ],
+                "range": [
+                    "UPTO 3 STEPS"
+                ]
+            }
+        ],
+        "restrict": [
+            "like._dst AS src, serve._src AS dst ",
+            "noloop",
+            "path as p"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": null,
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "go",
+            "yield",
+            "find",
+            "yield"
+        ]
+    },
+    {
+        "query_pattern": "mixed",
+        "related_objects": [
+            {
+                "start_node": [
+                    "player100"
+                ],
+                "edge": {}
+            },
+            {
+                "type": "vertex",
+                "label": [
+                    "player",
+                    "$-.ID"
+                ]
+            }
+        ],
+        "restrict": [
+            "dst(edge) AS ID ",
+            "properties(vertex).age AS Age ",
+            "AVG($-.Age) as Avg_age, count(*)as Num_friends"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": null,
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "go",
+            "yield",
+            "fetch prop on",
+            "yield",
+            "yield"
+        ]
+    },
+    {
+        "query_pattern": "mixed",
+        "related_objects": [
+            {
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {}
+            },
+            {
+                "start_node": [],
+                "end_node": [],
+                "edge": [
+                    "like"
+                ],
+                "range": [
+                    "UPTO 5 STEPS"
+                ]
+            }
+        ],
+        "restrict": [
+            "like._dst AS src, serve._src AS dst ",
+            "shortest",
+            "path as p"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": null,
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "go",
+            "yield",
+            "find",
+            "yield"
+        ]
+    },
+    {
+        "query_pattern": "mixed",
+        "related_objects": [
+            {
+                "label": "player"
+            },
+            {
+                "start_node": [],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "player.age as age, id(vertex) as vid ",
+            "REVERSELY",
+            "$-.age AS age, like._dst AS dst ",
+            "any(d IN COLLECT(DISTINCT $-.dst)"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": null,
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "lookup on",
+            "where",
+            "yield",
+            "go",
+            "yield",
+            "yield",
+            "where"
+        ]
+    },
+    {
+        "query_pattern": "mixed",
+        "related_objects": [],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": null,
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "insert",
+            "insert"
+        ]
+    },
+    {
+        "query_pattern": "mixed",
+        "related_objects": [
+            {
+                "label": "player"
+            },
+            {
+                "type": "vertex",
+                "label": [
+                    "player",
+                    "$a.id"
+                ]
+            }
+        ],
+        "restrict": [
+            "id(vertex) as id;",
+            "player.name"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": null,
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "lookup on",
+            "where",
+            "yield",
+            "fetch prop on",
+            "yield"
+        ]
+    },
+    {
+        "query_pattern": "mixed",
+        "related_objects": [
+            {
+                "label": "player"
+            },
+            {
+                "start_node": [],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "player.name AS name ",
+            "REVERSELY",
+            "1 to 2 steps",
+            "like._dst AS dst, $$.player.name AS name, edge as e, $$ as dstnode, $^ as srcnode"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": null,
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "lookup on",
+            "where",
+            "yield",
+            "go",
+            "yield"
+        ]
+    },
+    {
+        "query_pattern": "mixed",
+        "related_objects": [
+            {
+                "start_node": [
+                    "player101"
+                ],
+                "edge": {}
+            },
+            {
+                "type": "vertex",
+                "label": [
+                    "follow",
+                    "$-.s",
+                    "->",
+                    "$-.d"
+                ]
+            }
+        ],
+        "restrict": [
+            "src(edge) AS s, dst(edge) AS d ",
+            "properties(edge).degree"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": null,
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "go",
+            "yield",
+            "fetch prop on",
+            "yield"
+        ]
+    },
+    {
+        "query_pattern": "mixed",
+        "related_objects": [
+            {
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {}
+            },
+            {
+                "start_node": [],
+                "end_node": [],
+                "edge": [
+                    "like"
+                ],
+                "range": [
+                    "UPTO 3 STEPS"
+                ]
+            }
+        ],
+        "restrict": [
+            "like._dst AS src, serve._src AS dst;",
+            "noloop",
+            "path as p"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": null,
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "go",
+            "yield",
+            "find",
+            "yield"
+        ]
+    },
+    {
+        "query_pattern": "mixed",
+        "related_objects": [
+            {
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {}
+            },
+            {
+                "start_node": [],
+                "end_node": [],
+                "edge": [
+                    "like"
+                ],
+                "range": [
+                    "UPTO 3 STEPS"
+                ]
+            }
+        ],
+        "restrict": [
+            "like._dst AS src, serve._src AS dst;",
+            "all",
+            "path as p"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": null,
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "go",
+            "yield",
+            "find",
+            "yield"
+        ]
+    },
+    {
+        "query_pattern": "mixed",
+        "related_objects": [
+            {
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {}
+            },
+            {
+                "start_node": [],
+                "end_node": [],
+                "edge": [
+                    "like"
+                ],
+                "range": [
+                    "UPTO 5 STEPS"
+                ]
+            }
+        ],
+        "restrict": [
+            "like._dst AS src, serve._src AS dst ",
+            "shortest",
+            "path as p "
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": null,
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "go",
+            "yield",
+            "find",
+            "yield",
+            "order by",
+            "limit"
+        ]
+    },
+    {
+        "query_pattern": "mixed",
+        "related_objects": [
+            {
+                "label": "player"
+            },
+            {
+                "start_node": [],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "player.age AS age, id(vertex) AS vid ",
+            "REVERSELY",
+            "$-.age AS age,   ('Tony Parker' == like._dst) AS liked,   like._src AS src,   like._dst AS dst"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": null,
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "lookup on",
+            "where",
+            "yield",
+            "go",
+            "yield"
+        ]
+    },
+    {
+        "query_pattern": "mixed",
+        "related_objects": [
+            {
+                "start_node": [
+                    "Boris Diaw",
+                    "Boris Diaw"
+                ],
+                "edge": {}
+            },
+            {
+                "type": "vertex",
+                "label": [
+                    "serve",
+                    "$var.src->$var.dst"
+                ]
+            }
+        ],
+        "restrict": [
+            "serve._src AS src, serve._dst AS dst;",
+            "DISTINCT serve.start_year, serve.end_year, edge as relationship"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": null,
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "go",
+            "yield",
+            "fetch prop on",
+            "yield"
+        ]
+    },
+    {
+        "query_pattern": "mixed",
+        "related_objects": [
+            {
+                "label": "player"
+            },
+            {
+                "start_node": [],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "player.age AS age, id(vertex) AS vid;",
+            "REVERSELY",
+            "$var.age AS age,   ('Tony Parker' == like._dst) AS liked,   like._src AS src,   like._dst AS dst"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": null,
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "lookup on",
+            "where",
+            "yield",
+            "go",
+            "yield"
+        ]
+    },
+    {
+        "query_pattern": "mixed",
+        "related_objects": [
+            {
+                "start_node": [
+                    "Tim Duncan"
+                ],
+                "edge": {}
+            },
+            {
+                "start_node": [],
+                "end_node": [],
+                "edge": [
+                    "like"
+                ],
+                "range": [
+                    "UPTO 3 STEPS"
+                ]
+            }
+        ],
+        "restrict": [
+            "like._dst AS src, serve._src AS dst;",
+            "noloop",
+            "path as p "
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": null,
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "go",
+            "yield",
+            "find",
+            "yield",
+            "order by",
+            "limit"
+        ]
+    },
+    {
+        "query_pattern": "mixed",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": [
+                    "player"
+                ],
+                "properties": "Tony Parker"
+            },
+            {
+                "start_node": [],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "player.name as Name ",
+            "like._dst"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": null,
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "fetch prop on",
+            "yield",
+            "go",
+            "yield"
+        ]
+    }
+]

@@ -1,0 +1,233 @@
+[
+    {
+        "查询对象": [
+            {
+                "category": "sub_graph",
+                "start_node_id_list": [
+                    "胃痛"
+                ],
+                "edge_type_list": null
+            }
+        ],
+        "查询约束": [
+            "1 steps"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "sub_graph",
+                "start_node_id_list": [
+                    "感冒"
+                ],
+                "edge_type_list": null
+            }
+        ],
+        "查询约束": [
+            "1 steps"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "sub_graph",
+                "start_node_id_list": [
+                    "糖尿病"
+                ],
+                "edge_type_list": null
+            }
+        ],
+        "查询约束": [
+            "1 steps"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "sub_graph",
+                "start_node_id_list": [
+                    "神经棘红细胞增多症"
+                ],
+                "edge_type_list": null
+            }
+        ],
+        "查询约束": [
+            "1 steps"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "sub_graph",
+                "start_node_id_list": [
+                    "咳嗽"
+                ],
+                "edge_type_list": null
+            }
+        ],
+        "查询约束": [
+            "1 steps"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "sub_graph",
+                "start_node_id_list": [
+                    "糖尿病"
+                ],
+                "edge_type_list": null
+            }
+        ],
+        "查询约束": [
+            "1 steps"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "sub_graph",
+                "start_node_id_list": [
+                    "头痛"
+                ],
+                "edge_type_list": null
+            }
+        ],
+        "查询约束": [
+            "1 steps"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "sub_graph",
+                "start_node_id_list": [
+                    "胸痛"
+                ],
+                "edge_type_list": null
+            }
+        ],
+        "查询约束": [
+            "1 steps"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "sub_graph",
+                "start_node_id_list": [
+                    "高血压"
+                ],
+                "edge_type_list": null
+            }
+        ],
+        "查询约束": [
+            "1 steps"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "sub_graph",
+                "start_node_id_list": [
+                    "心悸"
+                ],
+                "edge_type_list": null
+            }
+        ],
+        "查询约束": [
+            "1 steps"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "sub_graph",
+                "start_node_id_list": [
+                    "高血压"
+                ],
+                "edge_type_list": null
+            }
+        ],
+        "查询约束": [
+            "1 steps"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    }
+]

@@ -1,0 +1,233 @@
+[
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "find .. path",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "哈方·蒙特"
+                ],
+                "end_node": [
+                    "约塞利德·瓦德考克"
+                ],
+                "edge": [
+                    "*"
+                ],
+                "length": []
+            }
+        ],
+        "restrict": "shortest",
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "path"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FIND",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "find .. path",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "赫敏·格兰杰"
+                ],
+                "end_node": [
+                    "哈利·波特"
+                ],
+                "edge": [
+                    "*"
+                ],
+                "length": []
+            }
+        ],
+        "restrict": "shortest",
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "path"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FIND",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "find .. path",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "托比亚·斯内普"
+                ],
+                "end_node": [
+                    "帕金 (找球手)"
+                ],
+                "edge": [
+                    "*"
+                ],
+                "length": []
+            }
+        ],
+        "restrict": "shortest",
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "path"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FIND",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "find .. path",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "詹姆·小天狼星·波特"
+                ],
+                "end_node": [
+                    "德里安·普塞"
+                ],
+                "edge": [
+                    "*"
+                ],
+                "length": []
+            }
+        ],
+        "restrict": "shortest",
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "path"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FIND",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "find .. path",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "赫尔曼·温廷汉姆"
+                ],
+                "end_node": [
+                    "卢克丽霞·布莱克"
+                ],
+                "edge": [
+                    "*"
+                ],
+                "length": []
+            }
+        ],
+        "restrict": "shortest",
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "path"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FIND",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "find .. path",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "西弗勒斯·斯内普"
+                ],
+                "end_node": [
+                    "多洛雷斯·乌姆里奇"
+                ],
+                "edge": [
+                    "*"
+                ],
+                "length": []
+            }
+        ],
+        "restrict": "shortest",
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "path"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FIND",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "find .. path",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "吉米·珀克斯"
+                ],
+                "end_node": [
+                    "塞缪尔·G·寇豪格"
+                ],
+                "edge": [
+                    "*"
+                ],
+                "length": []
+            }
+        ],
+        "restrict": "shortest",
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "path"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FIND",
+            "YIELD"
+        ]
+    }
+]

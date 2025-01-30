@@ -1,0 +1,1464 @@
+[
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "player"
+                ],
+                "node_id_list": [
+                    "Boris Diaw"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "t2"
+                ],
+                "node_id_list": [
+                    "11"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [
+                "properties"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "edge",
+                "label": [
+                    "follow"
+                ],
+                "start_node_id_list": [
+                    "player101"
+                ],
+                "end_node_id_list": [
+                    "player100"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [
+                "properties"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "player,",
+                    "t1"
+                ],
+                "node_id_list": [
+                    "player100",
+                    "player103"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "edge",
+                "label": [
+                    "serve"
+                ],
+                "start_node_id_list": [
+                    "Boris Diaw"
+                ],
+                "end_node_id_list": [
+                    "Hawks"
+                ],
+                "start_year": "待查询",
+                "end_year": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "player,",
+                    "t1"
+                ],
+                "node_id_list": [
+                    "player100"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "player"
+                ],
+                "node_id_list": [
+                    "Jason Kidd"
+                ],
+                "name": "待查询",
+                "age": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "player"
+                ],
+                "node_id_list": [
+                    "Boris Diaw"
+                ],
+                "name": "待查询",
+                "age": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "edge",
+                "label": [
+                    "like"
+                ],
+                "start_node_id_list": [
+                    "Tony Parker",
+                    "Grant Hill"
+                ],
+                "end_node_id_list": [
+                    "Tim Duncan",
+                    "Tracy McGrady"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "player"
+                ],
+                "node_id_list": [
+                    "Carmelo Anthony"
+                ],
+                "name": "待查询",
+                "age": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "*"
+                ],
+                "node_id_list": [
+                    "Boris Diaw"
+                ],
+                "age": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [
+                "id"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "edge",
+                "label": [
+                    "like"
+                ],
+                "start_node_id_list": [
+                    "Tony Parker",
+                    "Grant Hill"
+                ],
+                "end_node_id_list": [
+                    "Tim Duncan",
+                    "Tracy McGrady"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "*"
+                ],
+                "node_id_list": [
+                    "player666",
+                    "player667",
+                    "player668"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [
+                "properties"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "player"
+                ],
+                "node_id_list": [
+                    "player100"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [
+                "properties"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "*"
+                ],
+                "node_id_list": [
+                    "Tim Duncan"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "edge",
+                "label": [
+                    "serve"
+                ],
+                "start_node_id_list": [
+                    "Zion Williamson",
+                    "Boris Diaw"
+                ],
+                "end_node_id_list": [
+                    "Spurs",
+                    "Hawks"
+                ],
+                "start_year": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "edge",
+                "label": [
+                    "like"
+                ],
+                "start_node_id_list": [
+                    "Tony Parker",
+                    "Grant Hill"
+                ],
+                "end_node_id_list": [
+                    "Tim Duncan",
+                    "Tracy McGrady"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "player"
+                ],
+                "node_id_list": [
+                    "player101",
+                    "player102",
+                    "player103"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [
+                "properties"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "edge",
+                "label": [
+                    "like"
+                ],
+                "start_node_id_list": [
+                    "Tony Parker",
+                    "Grant Hill"
+                ],
+                "end_node_id_list": [
+                    "Tim Duncan",
+                    "Tracy McGrady"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "edge",
+                "label": [
+                    "serve"
+                ],
+                "start_node_id_list": [
+                    "Boris Diaw"
+                ],
+                "end_node_id_list": [
+                    "Spurs"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "player"
+                ],
+                "node_id_list": [
+                    "Tony Parker"
+                ],
+                "name": "待查询",
+                "age": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [
+                "properties"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "player"
+                ],
+                "node_id_list": [
+                    "player100",
+                    "player101",
+                    "player102",
+                    "player103"
+                ],
+                "age": "待查询",
+                "name": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "*"
+                ],
+                "node_id_list": [
+                    "Boris Diaw",
+                    "Boris Diaw"
+                ],
+                "name": "待查询",
+                "age": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "edge",
+                "label": [
+                    "serve"
+                ],
+                "start_node_id_list": [
+                    "Boris Diaw"
+                ],
+                "end_node_id_list": [
+                    "Spurs"
+                ],
+                "start_year": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "edge",
+                "label": [
+                    "serve"
+                ],
+                "start_node_id_list": [
+                    "player100",
+                    "player133"
+                ],
+                "end_node_id_list": [
+                    "team204",
+                    "team202"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "*"
+                ],
+                "node_id_list": [
+                    "Boris Diaw"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [
+                "id"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "*"
+                ],
+                "node_id_list": [
+                    "Boris Diaw"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "player"
+                ],
+                "node_id_list": [
+                    "Grant Hill"
+                ],
+                "name": "待查询",
+                "age": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "player"
+                ],
+                "node_id_list": [
+                    "Kobe"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [
+                "properties"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "player"
+                ],
+                "node_id_list": [
+                    "player101"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [
+                "properties"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "*"
+                ],
+                "node_id_list": [
+                    "Tim Duncan"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [
+                "id",
+                "properties"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "team"
+                ],
+                "node_id_list": [
+                    "Spurs"
+                ],
+                "name": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "edge",
+                "label": [
+                    "serve"
+                ],
+                "start_node_id_list": [
+                    "player100"
+                ],
+                "end_node_id_list": [
+                    "team204"
+                ],
+                "start_year": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "player"
+                ],
+                "node_id_list": [
+                    "Tim Duncan"
+                ],
+                "name": "待查询",
+                "age": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "*"
+                ],
+                "node_id_list": [
+                    "Boris Diaw"
+                ],
+                "name": "待查询",
+                "age": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "edge",
+                "label": [
+                    "like"
+                ],
+                "start_node_id_list": [
+                    "Tony Parker",
+                    "Grant Hill"
+                ],
+                "end_node_id_list": [
+                    "Tim Duncan",
+                    "Tracy McGrady"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "player"
+                ],
+                "node_id_list": [
+                    "player100"
+                ],
+                "name": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "player"
+                ],
+                "node_id_list": [
+                    "Boris Diaw"
+                ],
+                "name": "待查询",
+                "age": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "player"
+                ],
+                "node_id_list": [
+                    "player100"
+                ],
+                "name": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "edge",
+                "label": [
+                    "serve"
+                ],
+                "start_node_id_list": [
+                    "player100"
+                ],
+                "end_node_id_list": [
+                    "team204\"@1"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "any_shape"
+                ],
+                "node_id_list": [
+                    "103"
+                ],
+                "geo": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "edge",
+                "label": [
+                    "serve"
+                ],
+                "start_node_id_list": [
+                    "Boris Diaw"
+                ],
+                "end_node_id_list": [
+                    "Spurs"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [
+                "type"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "player"
+                ],
+                "node_id_list": [
+                    "Boris Diaw",
+                    "Tony Parker"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "player"
+                ],
+                "node_id_list": [
+                    "Boris Diaw",
+                    "Tony Parker"
+                ],
+                "name": "待查询",
+                "age": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "edge",
+                "label": [
+                    "serve"
+                ],
+                "start_node_id_list": [
+                    "Boris Diaw"
+                ],
+                "end_node_id_list": [
+                    "Spurs"
+                ],
+                "_src": "待查询",
+                "_dst": "待查询",
+                "_rank": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "edge",
+                "label": [
+                    "any_shape_edge"
+                ],
+                "start_node_id_list": [
+                    "201"
+                ],
+                "end_node_id_list": [
+                    "302"
+                ],
+                "geo": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "edge",
+                "label": [
+                    "like"
+                ],
+                "start_node_id_list": [
+                    "Tony Parker",
+                    "Grant Hill"
+                ],
+                "end_node_id_list": [
+                    "Tim Duncan",
+                    "Tracy McGrady"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "*"
+                ],
+                "node_id_list": [
+                    "Tim Duncan"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [
+                "id",
+                "properties"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "edge",
+                "label": [
+                    "serve"
+                ],
+                "start_node_id_list": [
+                    "Tony Parker"
+                ],
+                "end_node_id_list": [
+                    "Spurs"
+                ],
+                "start_year": "待查询",
+                "end_year": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "player",
+                    "$v1.a"
+                ],
+                "node_id_list": [],
+                "name": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "edge",
+                "label": [
+                    "serve"
+                ],
+                "start_node_id_list": [
+                    "player100"
+                ],
+                "end_node_id_list": [
+                    "team204"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "edge",
+                "label": [
+                    "like"
+                ],
+                "start_node_id_list": [
+                    "Tony Parker",
+                    "Grant Hill"
+                ],
+                "end_node_id_list": [
+                    "Tim Duncan",
+                    "Tracy McGrady"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [
+                "properties"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "player"
+                ],
+                "node_id_list": [
+                    "Boris Diaw"
+                ],
+                "name": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "player"
+                ],
+                "node_id_list": [
+                    "Tony Parker"
+                ],
+                "name": "待查询",
+                "age": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "*"
+                ],
+                "node_id_list": [
+                    "test"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "*"
+                ],
+                "node_id_list": [
+                    "player100",
+                    "player106",
+                    "team200"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "edge",
+                "label": [
+                    "serve"
+                ],
+                "start_node_id_list": [
+                    "Boris Diaw"
+                ],
+                "end_node_id_list": [
+                    "Not Exist"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "edge",
+                "label": [
+                    "serve"
+                ],
+                "start_node_id_list": [
+                    "player100"
+                ],
+                "end_node_id_list": [
+                    "team204"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [
+                "properties"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "edge",
+                "label": [
+                    "serve"
+                ],
+                "start_node_id_list": [
+                    "Boris Diaw"
+                ],
+                "end_node_id_list": [
+                    "Hawks"
+                ],
+                "start_year": "待查询",
+                "end_year": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "*",
+                    "$-.id"
+                ],
+                "node_id_list": [],
+                "name": "待查询",
+                "age": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "*"
+                ],
+                "node_id_list": [
+                    "Boris Diaw"
+                ],
+                "age": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": false,
+            "aggregation": [
+                "id"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    }
+]

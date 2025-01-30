@@ -1,0 +1,323 @@
+[
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "卡桑德拉·瓦布拉斯基"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "2 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "希思科特·巴巴里"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "2 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "阿布拉克萨斯·马尔福"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "2 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "赫尔伯特·斯普林"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "2 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "雷古勒斯·布莱克"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "2 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "埃尔德·沃普尔"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "2 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "塞德瑞拉·布莱克"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "2 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "詹姆·小天狼星·波特"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "2 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "温迪克·温瑞迪安"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "2 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "乔治·韦斯莱"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "2 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "go .. from",
+        "related_objects": [
+            {
+                "type": "path",
+                "start_node": [
+                    "弗雷德·韦斯莱"
+                ],
+                "edge": {}
+            }
+        ],
+        "restrict": [
+            "2 steps"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "GO",
+            "YIELD"
+        ]
+    }
+]

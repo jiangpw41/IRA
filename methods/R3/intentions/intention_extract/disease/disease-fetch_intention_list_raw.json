@@ -1,0 +1,118 @@
+[
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": [
+                    "disease"
+                ],
+                "names": [
+                    "糖尿病"
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "cured_prob:待查询"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": [
+                    "disease"
+                ],
+                "names": [
+                    "戊型病毒性肝炎"
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "cured_prob:待查询"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": [
+                    "disease"
+                ],
+                "names": [
+                    "霍奇金病"
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "cured_prob:待查询"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": [
+                    "disease"
+                ],
+                "names": [
+                    "高血压"
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "cured_prob:待查询"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    }
+]

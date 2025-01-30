@@ -1,0 +1,32 @@
+{
+    "harrypotter" : {
+        "VERTEX": {
+            "name_list": ["college", "group", "character"],
+            "vid":  ["vid"]
+        },
+        "EDGE": {
+            "name_list" :  [ "learn_from", "belong_to", "kindred"],
+            "vid" : ["src_id", "tag_id"]
+        }
+    },
+    "nba": {
+        "VERTEX": {
+            "name_list": ["team", "bachelor", "player"],
+            "vid":  [":VID(string)"]
+        },
+        "EDGE": {
+            "name_list" :  [ "serve", "teammate", "like"],
+            "vid" : [":SRC_VID(string)", ":DST_VID(string)"]
+        }
+    },
+    "disease": {
+        "VERTEX": {
+            "name_list": ["check", "cure", "department", "disease", "drug", "food", "producer", "symptom"],
+            "vid":  ["vid"]
+        },
+        "EDGE": {
+            "name_list" :  [ "accompany_with", "common_drug", "cure_department", "cure_way", "do_eat", "has_symptom", "need_check", "no_eat", "recommend_drug", "recommend_eat"],
+            "vid" : ["src_id", "tag_id"]
+        }
+    }
+}

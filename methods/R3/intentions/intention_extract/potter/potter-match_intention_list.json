@@ -1,0 +1,4864 @@
+[
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "杜格德·麦克费尔"
+                },
+                "end_node": {
+                    "label": []
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": "5",
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "end_node": {
+                    "label": [
+                        "college"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'妹妹'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "阿不思·西弗勒斯·波特"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "博尔"
+                },
+                "end_node": {
+                    "label": []
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": "3",
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "learn_from"
+                ],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "巴希达·巴沙特"
+                },
+                "end_node": {
+                    "label": [
+                        "college"
+                    ],
+                    "name": "待查询"
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "learn_from"
+                ],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "多洛雷斯·乌姆里奇"
+                },
+                "end_node": {
+                    "label": [
+                        "college"
+                    ],
+                    "name": "待查询"
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "劳拉·马德莱",
+                "gender": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "上巴恩顿的汉吉斯",
+                "species": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'妻子'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "蒂尔登·图茨"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'儿子'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "威尔米娜·塔夫特"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'父亲'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "多洛雷斯·乌姆里奇"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'姐姐'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "莫迪丝蒂·拉布诺"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "待查询"
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'儿子'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "塞德瑞拉·布莱克"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'弟弟'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "吉德罗·洛哈特的姐姐"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'弟弟'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "凯文·布罗德莫"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "belong_to"
+                ],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "周雅"
+                },
+                "end_node": {
+                    "label": [
+                        "group"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "拉奇迪恩",
+                "gender": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "杰基·杰尼根"
+                },
+                "end_node": {
+                    "label": [
+                        "group"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "马琳·麦金农",
+                "species": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "belong_to"
+                ],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "米拉贝拉·普伦基特"
+                },
+                "end_node": {
+                    "label": [
+                        "group"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "乔治·韦斯莱"
+                },
+                "end_node": {
+                    "label": [
+                        "group"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [
+                "count()"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'养子'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "玛丽·卢·巴瑞波恩"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "learn_from"
+                ],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "特罗卡"
+                },
+                "end_node": {
+                    "label": [
+                        "college"
+                    ],
+                    "name": "待查询"
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "belong_to"
+                ],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "西弗勒斯·斯内普"
+                },
+                "end_node": {
+                    "label": [
+                        "group"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "玛莎"
+                },
+                "end_node": {
+                    "label": [
+                        "group"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "learn_from"
+                ],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "布拉德利"
+                },
+                "end_node": {
+                    "label": [
+                        "college"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "瓦伦蒂娜·巴斯克斯",
+                "born": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "巴巴吉德·阿金巴德",
+                "gender": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "belong_to"
+                ],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "梅林达·波宾"
+                },
+                "end_node": {
+                    "label": [
+                        "group"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'母亲'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "玛姬·德思礼"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "罗恩·韦斯莱",
+                "hair": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "belong_to"
+                ],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "拉尔斯·伦德克万"
+                },
+                "end_node": {
+                    "label": [
+                        "group"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "赫尔伯特·斯普林"
+                },
+                "end_node": {
+                    "label": [
+                        "group"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [
+                "count()"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'后裔'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "拉道夫斯·莱斯特兰奇"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "莫恩",
+                "born": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'父亲'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "帕金 (击球手II)"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "belong_to"
+                ],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "希思科特·巴巴里"
+                },
+                "end_node": {
+                    "label": [
+                        "group"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [
+                "count()"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'父亲'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "詹姆·小天狼星·波特"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'妻子'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "弗利蒙·波特"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "belong_to"
+                ],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "鲁道夫·布兰德"
+                },
+                "end_node": {
+                    "label": [
+                        "group"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'母亲'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "吉德罗·洛哈特的姐姐"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "特罗卡",
+                "species": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "卡桑德拉·瓦布拉斯基"
+                },
+                "end_node": {
+                    "label": [
+                        "group"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [
+                "count()"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "哈桑·穆斯塔发",
+                "hair": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "learn_from"
+                ],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "杰克·斯劳珀"
+                },
+                "end_node": {
+                    "label": [
+                        "college"
+                    ],
+                    "name": "待查询"
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "芙蓉·德拉库尔",
+                "eye": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "卡桑德拉·瓦布拉斯基",
+                "species": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "鲍曼·赖特",
+                "hair": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'父亲'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "扎卡赖斯·史密斯"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "belong_to"
+                ],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "奥托·奥博梅尔"
+                },
+                "end_node": {
+                    "label": [
+                        "group"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "蒙太·奈特利",
+                "species": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "belong_to"
+                ],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "马尔科姆"
+                },
+                "end_node": {
+                    "label": [
+                        "group"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "belong_to"
+                ],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "哈桑·穆斯塔发"
+                },
+                "end_node": {
+                    "label": [
+                        "group"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "财政大臣",
+                "species": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'母亲'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "雷古勒斯·布莱克"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'儿子'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "亨利·波特"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "扎卡赖斯·史密斯",
+                "hair": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "蒂尔登·图茨"
+                },
+                "end_node": {
+                    "label": []
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": "2",
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "阿尔莫里克·索布里奇",
+                "hair": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'兄妹'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "帕金 (追球手II)"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [
+                "count()"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "西弗勒斯·斯内普",
+                "hair": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "belong_to"
+                ],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "巴巴吉德·阿金巴德"
+                },
+                "end_node": {
+                    "label": [
+                        "group"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'祖先'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "赫普兹巴·史密斯"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "belong_to"
+                ],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "特拉弗斯"
+                },
+                "end_node": {
+                    "label": [
+                        "group"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'岳父'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "赫伯特·博克"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "坎坦克卢斯·诺特"
+                },
+                "end_node": {
+                    "label": []
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": "2",
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "吉德罗·洛哈特的姐姐",
+                "blood": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "雷古勒斯·布莱克"
+                },
+                "end_node": {
+                    "label": [
+                        "group"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [
+                "count()"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'孙女'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "亨利七世"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "belong_to"
+                ],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "维奥莱塔·伯斯德"
+                },
+                "end_node": {
+                    "label": [
+                        "group"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "learn_from"
+                ],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "芙蓉·德拉库尔"
+                },
+                "end_node": {
+                    "label": [
+                        "college"
+                    ],
+                    "name": "待查询"
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "belong_to"
+                ],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "威尔米娜·塔夫特"
+                },
+                "end_node": {
+                    "label": [
+                        "group"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "learn_from"
+                ],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "西莫·斐尼甘"
+                },
+                "end_node": {
+                    "label": [
+                        "college"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "拉道夫斯·莱斯特兰奇",
+                "born": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'儿子'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "弗拉德·德拉库"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "奥塔莱恩·甘布尔",
+                "gender": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "尼古拉·韦尔斯",
+                "species": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "尼古拉·瓦西勒娃",
+                "gender": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'未婚妻'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "忒修斯·斯卡曼德"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "温迪克·温瑞迪安"
+                },
+                "end_node": {
+                    "label": [
+                        "group"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [
+                "count()"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "belong_to"
+                ],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "伯莎·乔金斯"
+                },
+                "end_node": {
+                    "label": [
+                        "group"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "贝内迪塔·多拉多",
+                "species": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "杰克·斯劳珀"
+                },
+                "end_node": {
+                    "label": []
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "周雅",
+                "hair": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "end_node": {
+                    "label": [
+                        "group"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "奥拉·奎尔克",
+                "born": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "belong_to"
+                ],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "马琳·麦金农"
+                },
+                "end_node": {
+                    "label": [
+                        "group"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "阿马利洛·莱斯托阿特",
+                "hair": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "belong_to"
+                ],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "安东宁·多洛霍夫"
+                },
+                "end_node": {
+                    "label": [
+                        "group"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'孙辈'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "雅各布·科瓦尔斯基的祖母"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "赫伯特·博克"
+                },
+                "end_node": {
+                    "label": [
+                        "group"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'妻子'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "西格纳斯·布莱克二世"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "格奥尔基·兹德拉夫科",
+                "gender": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "西莫·斐尼甘的父亲",
+                "blood": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'妻子'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "乔治·韦斯莱"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "马尔科姆",
+                "blood": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "learn_from"
+                ],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "莫拉格·麦克道格"
+                },
+                "end_node": {
+                    "label": [
+                        "college"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "卡图卢斯·斯潘格尔",
+                "born": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "克丽奥娜",
+                "born": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "end_node": {
+                    "label": [
+                        "group"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "belong_to"
+                ],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "阿切尔·埃弗蒙德"
+                },
+                "end_node": {
+                    "label": [
+                        "group"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'父亲'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "罗恩·韦斯莱"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "埃尔德·沃普尔"
+                },
+                "end_node": {
+                    "label": []
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": "2",
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "厄克特"
+                },
+                "end_node": {
+                    "label": []
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "belong_to"
+                ],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "尼古拉·瓦西勒娃"
+                },
+                "end_node": {
+                    "label": [
+                        "group"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "伊格诺图斯·佩弗利尔"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "鲁道夫·布兰德",
+                "species": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "belong_to"
+                ],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "吉米·珀克斯"
+                },
+                "end_node": {
+                    "label": [
+                        "group"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "belong_to"
+                ],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "罗恩·韦斯莱"
+                },
+                "end_node": {
+                    "label": [
+                        "group"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'妻子'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "西莫·斐尼甘的父亲"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "belong_to"
+                ],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "莫恩"
+                },
+                "end_node": {
+                    "label": [
+                        "group"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "end_node": {
+                    "label": [
+                        "group"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'姐姐'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "塞德瑞拉·布莱克"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "赫尔曼·温廷汉姆",
+                "born": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'丈夫'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "冈希尔达·尼恩"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'父亲'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "吉德罗·洛哈特的姐姐"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "阿切尔·埃弗蒙德",
+                "species": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "伯莎·乔金斯"
+                },
+                "end_node": {
+                    "label": []
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'妻子'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "罗伯茨"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "埃拉朵拉·凯特里奇",
+                "hair": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "赫尔伯特·斯普林"
+                },
+                "end_node": {
+                    "label": []
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": "2",
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "塔奎因·麦克塔维什的邻居",
+                "species": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "弗雷德·韦斯莱"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "埃尔德·沃普尔"
+                },
+                "end_node": {
+                    "label": [
+                        "group"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [
+                "count()"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "默西·刘易斯",
+                "species": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'父亲'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "阿不思·西弗勒斯·波特"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "迪米特洛夫"
+                },
+                "end_node": {
+                    "label": [
+                        "group"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'侄女'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "卢克丽霞·布莱克"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "belong_to"
+                ],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "贝内迪塔·多拉多"
+                },
+                "end_node": {
+                    "label": [
+                        "college"
+                    ],
+                    "name": "待查询"
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'养女'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "玛丽·卢·巴瑞波恩"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'女儿'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "芙蓉·德拉库尔"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "罗伯茨",
+                "species": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'前妻'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "塞蒂娜·沃贝克的第二任丈夫"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'嫂子'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "约拉·布莱克"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "弗雷德·韦斯莱",
+                "hair": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "learn_from"
+                ],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "赫普兹巴·史密斯"
+                },
+                "end_node": {
+                    "label": [
+                        "college"
+                    ],
+                    "name": "待查询"
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "end_node": {
+                    "label": [
+                        "group"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "特拉弗斯",
+                "blood": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "learn_from"
+                ],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "奥拉·奎尔克"
+                },
+                "end_node": {
+                    "label": [
+                        "college"
+                    ],
+                    "name": "待查询"
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'后裔'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "莫瑞根"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "belong_to"
+                ],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "奥塔莱恩·甘布尔"
+                },
+                "end_node": {
+                    "label": [
+                        "group"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'妻子'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "蒂尔登·图茨"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "blood": "待查询"
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "上巴恩顿的汉吉斯",
+                "dead": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "belong_to"
+                ],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "西莫·斐尼甘"
+                },
+                "end_node": {
+                    "label": [
+                        "group"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "雅各布·科瓦尔斯基的祖母",
+                "blood": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "learn_from"
+                ],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "吉米·珀克斯"
+                },
+                "end_node": {
+                    "label": [
+                        "college"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "伊丽莎白·斯马奇林",
+                "species": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'妹妹'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "芙蓉·德拉库尔"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "雅各布·科瓦尔斯基的兄弟",
+                "species": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "莫瑞根",
+                "blood": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "妖精爵士歌手",
+                "species": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "吉姆·麦古",
+                "blood": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "西莫·斐尼甘",
+                "hair": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "哈维·瑞吉比特",
+                "eye": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "belong_to"
+                ],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "弗雷德·韦斯莱"
+                },
+                "end_node": {
+                    "label": [
+                        "group"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "利奥波迪娜·斯梅绥克"
+                },
+                "end_node": {
+                    "label": []
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": "2",
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "兰斯洛特",
+                "species": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "鲁道夫·布兰德"
+                },
+                "end_node": {
+                    "label": []
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": "2",
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "belong_to"
+                ],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "蒂莉·托克"
+                },
+                "end_node": {
+                    "label": [
+                        "group"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "belong_to"
+                ],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "若久耀西"
+                },
+                "end_node": {
+                    "label": [
+                        "group"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'丈夫'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "芙蓉·德拉库尔"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "belong_to"
+                ],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "鲍曼·赖特"
+                },
+                "end_node": {
+                    "label": [
+                        "group"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "end_node": {
+                    "label": [
+                        "group"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "梅林达·波宾",
+                "blood": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "怪人尤里克",
+                "hair": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "belong_to"
+                ],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "布拉德利"
+                },
+                "end_node": {
+                    "label": [
+                        "group"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "莫迪克斯·埃格",
+                "eye": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "亚瑟·韦斯莱"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "罗伊斯顿·埃德温德",
+                "gender": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'妻子'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "罗恩·韦斯莱"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'父亲'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "莫迪丝蒂·巴瑞波恩"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "埃里克·华莱",
+                "gender": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "希思科特·巴巴里",
+                "species": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'儿子'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "亨利七世"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'父亲'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "帕金 (追球手II)"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "赫普兹巴·史密斯",
+                "hair": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'妻子'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "赫伯特·博克"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "维奥莱塔·伯斯德",
+                "blood": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "帕金 (找球手)"
+                },
+                "end_node": {
+                    "label": []
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "learn_from"
+                ],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "罗恩·韦斯莱"
+                },
+                "end_node": {
+                    "label": [
+                        "college"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "克丽奥娜",
+                "species": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": "character",
+                "cure": "物理治疗",
+                "name": "冈希尔达·尼恩",
+                "marital": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "kindred"
+                ],
+                "rel_type": "'丈夫'",
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "维奥莱塔·伯斯德"
+                },
+                "end_node": {
+                    "label": [
+                        "character"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [
+                    "belong_to"
+                ],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "哈维·瑞吉比特"
+                },
+                "end_node": {
+                    "label": [
+                        "group"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "relationship",
+                "label": [],
+                "start_node": {
+                    "label": [
+                        "character"
+                    ],
+                    "name": "弗雷德·韦斯莱"
+                },
+                "end_node": {
+                    "label": [
+                        "group"
+                    ]
+                },
+                "have_direction": false
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [
+                "count()"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    }
+]

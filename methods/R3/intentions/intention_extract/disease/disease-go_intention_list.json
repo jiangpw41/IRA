@@ -1,0 +1,1124 @@
+[
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "遗传性凝血因子ⅩⅢ缺乏"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "cure_department"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "慢性淋巴细胞性白血病"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "recommend_drug"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "软组织损伤"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "cure_department"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "胃病"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "has_symptom"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "戊型病毒性肝炎"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "recommend_drug"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "白血病"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "recommend_drug"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "肝炎"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "has_symptom"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "无脉络膜症"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "cure_department"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "霍奇金病"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "recommend_drug"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "呼吸系统疾病伴发的精神障碍"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "recommend_drug"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "脑瘤"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "cure_way"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "白血病"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "no_eat"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "霍奇金病"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "no_eat"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "心脏病"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "recommend_eat"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "纵隔非霍奇金淋巴瘤"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "recommend_drug"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "脐疝"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "cure_department"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "高血压"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "recommend_drug"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "风湿病"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "no_eat"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "高血压"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "recommend_eat"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "遗传性凝血因子ⅩⅢ缺乏"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "recommend_drug"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "戊型病毒性肝炎"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "accompany_with"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "戊型病毒性肝炎"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "need_check"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "糖尿病"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "recommend_drug"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "气虚血瘀证"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "no_eat"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "肌纤维组织炎"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "recommend_drug"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "支气管炎"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "cure_department"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "软纤维瘤"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "recommend_drug"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "高血压"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "need_check"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "高血压"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "no_eat"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "霍奇金病"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "cure_way"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "肺炎"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "need_check"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "急性乳腺炎"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "cure_department"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "细菌性阴道病"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "recommend_drug"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "疰夏"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "cure_department"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "风湿病"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "recommend_eat"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "肝炎"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "cure_way"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "高血压"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "cure_department"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "霍奇金病"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "need_check"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "外阴银屑病"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "recommend_drug"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "戊型病毒性肝炎"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "cure_department"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "霍奇金病"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "recommend_eat"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "戊型病毒性肝炎"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "no_eat"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "糖尿病"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "cure_department"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "厥脱"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "cure_department"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "心脏病"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "cure_department"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "肺炎"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "recommend_drug"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "心脏病"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "recommend_drug"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "肺癌"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "no_eat"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "丙型肝炎病毒感染与肾小球肾炎"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "cure_department"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "血红蛋白E病"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "cure_department"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "path",
+                "start_node_id_list": [
+                    "白血病"
+                ],
+                "end_node_id_list": "待查询",
+                "edge_type_list": [
+                    "cure_department"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    }
+]

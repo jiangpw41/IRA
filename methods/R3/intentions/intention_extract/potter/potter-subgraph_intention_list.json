@@ -1,0 +1,149 @@
+[
+    {
+        "查询对象": [
+            {
+                "category": "sub_graph",
+                "start_node_id_list": [
+                    "杜格德·麦克费尔"
+                ],
+                "edge_type_list": null
+            }
+        ],
+        "查询约束": [
+            "2 steps"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "sub_graph",
+                "start_node_id_list": [
+                    "尼可·勒梅"
+                ],
+                "edge_type_list": null
+            }
+        ],
+        "查询约束": [
+            "2 steps"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "sub_graph",
+                "start_node_id_list": [
+                    "亨利八世"
+                ],
+                "edge_type_list": null
+            }
+        ],
+        "查询约束": [
+            "2 steps"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "sub_graph",
+                "start_node_id_list": [
+                    "鲁道夫·布兰德"
+                ],
+                "edge_type_list": null
+            }
+        ],
+        "查询约束": [
+            "2 steps"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "sub_graph",
+                "start_node_id_list": [
+                    "索尔·克罗克"
+                ],
+                "edge_type_list": null
+            }
+        ],
+        "查询约束": [
+            "2 steps"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "sub_graph",
+                "start_node_id_list": [
+                    "菲菲·拉福尔"
+                ],
+                "edge_type_list": null
+            }
+        ],
+        "查询约束": [
+            "2 steps"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "sub_graph",
+                "start_node_id_list": [
+                    "卢卡斯·皮奎利"
+                ],
+                "edge_type_list": null
+            }
+        ],
+        "查询约束": [
+            "2 steps"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    }
+]

@@ -1,0 +1,1350 @@
+[
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": null,
+                "label": "e1",
+                "properties": {
+                    "col3": "false",
+                    "col2": "1.0"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "src(edge)",
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "edge",
+                "label": "like",
+                "properties": {
+                    "likeness": "6"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "src(edge)",
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": null,
+                "label": "e1",
+                "properties": {}
+            }
+        ],
+        "restrict": [
+            "e1.col1 >= 1",
+            "e1.col3 > false"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "src(edge)",
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "player",
+                "properties": {
+                    "age": "待查询"
+                }
+            }
+        ],
+        "restrict": [
+            "player.age > 3"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "edge",
+                "label": "like",
+                "properties": {
+                    "likeness": "8"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "src(edge)",
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": null,
+                "label": "t1",
+                "properties": {
+                    "col1": "羊🐏"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "id(vertex)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "player",
+                "properties": {
+                    "age": "待查询"
+                }
+            }
+        ],
+        "restrict": [
+            "player.age > 30.5"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "id(vertex)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "player",
+                "properties": {
+                    "age": "待查询"
+                }
+            }
+        ],
+        "restrict": [
+            "player.age >= 29.5"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "id(vertex)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": null,
+                "label": "e1",
+                "properties": {}
+            }
+        ],
+        "restrict": [
+            "e1.col1 >= 1",
+            "e1.col3 >= false"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "src(edge)",
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": null,
+                "label": "follow",
+                "properties": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "edge",
+                "COUNT(*)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "YIELD",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "player",
+                "properties": {
+                    "name": "待查询",
+                    "age": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": null,
+                "label": "e1",
+                "properties": {}
+            }
+        ],
+        "restrict": [
+            "e1.col1 >= 🐏羊羊"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "src(edge)",
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "player",
+                "properties": {
+                    "name": "Tony Parker"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "id(vertex)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "player",
+                "properties": {
+                    "name": "Tim Duncan",
+                    "age": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "id(vertex)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD",
+            "UNWIND",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": null,
+                "label": "e1",
+                "properties": {}
+            }
+        ],
+        "restrict": [
+            "e1.col1 >= 1",
+            "e1.col5 >= time"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "src(edge)",
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "player",
+                "properties": {
+                    "age": "待查询"
+                }
+            }
+        ],
+        "restrict": [
+            "player.age >= 2"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "id(vertex)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": null,
+                "label": "t1",
+                "properties": {
+                    "col4": "durian"
+                }
+            }
+        ],
+        "restrict": [
+            "t1.col2 <= 2.0"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "id(vertex)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "edge",
+                "label": "like",
+                "properties": {}
+            }
+        ],
+        "restrict": [
+            "like.likeness > 8"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "src(edge)",
+                "dst(edge)",
+                "rank(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "where",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "edge",
+                "label": "serve",
+                "properties": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "src(edge)",
+                "dst(edge)",
+                "rank(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "player",
+                "properties": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "id(vertex)",
+                "COUNT(*)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "YIELD",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "player",
+                "properties": {
+                    "name": "待查询",
+                    "age": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": null,
+                "label": "e1",
+                "properties": {}
+            }
+        ],
+        "restrict": [
+            "e1.col1 >= 1",
+            "e1.col8 > apple"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "src(edge)",
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": null,
+                "label": "t1",
+                "properties": {}
+            }
+        ],
+        "restrict": [
+            "t1.col1 > aaaaa"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "id(vertex)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "player",
+                "properties": {
+                    "age": "待查询",
+                    "name": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": null,
+                "label": "t1",
+                "properties": {}
+            }
+        ],
+        "restrict": [
+            "t1.col1 <= 2",
+            "t1.col8 <= banana"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "id(vertex)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "player",
+                "properties": {
+                    "age": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "count(*)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "YIELD",
+            "YIELD",
+            "ORDER BY"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": null,
+                "label": "e1",
+                "properties": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "src(edge)",
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": null,
+                "label": "e1",
+                "properties": {}
+            }
+        ],
+        "restrict": [
+            "e1.col1 >= 1",
+            "e1.col5 > time"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "src(edge)",
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "player",
+                "properties": {
+                    "name": "Tim Duncan"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "id(vertex)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "edge",
+                "label": "serve",
+                "properties": {
+                    "start_year": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": null,
+                "label": "any_shape",
+                "properties": {
+                    "geo": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": null,
+                "label": "e1",
+                "properties": {}
+            }
+        ],
+        "restrict": [
+            "e1.col1 <= 2"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "src(edge)",
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": null,
+                "label": "t1",
+                "properties": {
+                    "col3": "false"
+                }
+            }
+        ],
+        "restrict": [
+            "t1.col1 >= 1"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "id(vertex)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": null,
+                "label": "e1",
+                "properties": {
+                    "col1": "1",
+                    "col5": "time"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "src(edge)",
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": null,
+                "label": "t1",
+                "properties": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "id(vertex)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "edge",
+                "label": "like",
+                "properties": {
+                    "grade": "6"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "src(edge)",
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": null,
+                "label": "t1",
+                "properties": {
+                    "col4": "banana"
+                }
+            }
+        ],
+        "restrict": [
+            "t1.col3 > true"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "id(vertex)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "player",
+                "properties": {
+                    "age": "待查询",
+                    "name": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "player",
+                "properties": {
+                    "name": "待查询",
+                    "age": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": null,
+                "label": "e1",
+                "properties": {}
+            }
+        ],
+        "restrict": [
+            "e1.col1 <= 2"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "src(edge)",
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "player",
+                "properties": {
+                    "age": "待查询"
+                }
+            }
+        ],
+        "restrict": [
+            "player.age >= 40.0"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "id(vertex)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": null,
+                "label": "t1",
+                "properties": {}
+            }
+        ],
+        "restrict": [
+            "t1.col1 <= 2",
+            "t1.col2 <= 2.0"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "id(vertex)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": null,
+                "label": "e1",
+                "properties": {
+                    "col1": "1",
+                    "col3": "false"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "src(edge)",
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": null,
+                "label": "e1",
+                "properties": {}
+            }
+        ],
+        "restrict": [
+            "e1.col1 <= 2",
+            "e1.col3 <= true"
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "src(edge)",
+                "dst(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": null,
+                "label": "t1",
+                "properties": {
+                    "col4": "banana",
+                    "col3": "true"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "id(vertex)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "edge",
+                "label": "like",
+                "properties": {}
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "src(edge)",
+                "dst(edge)",
+                "rank(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "where",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "player",
+                "properties": {
+                    "age": "待查询"
+                }
+            }
+        ],
+        "restrict": [
+            "player.name > "
+        ],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "id(vertex)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    }
+]

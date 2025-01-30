@@ -1,0 +1,1937 @@
+[
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": [
+                    "player"
+                ],
+                "names": [
+                    "Boris Diaw"
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "vertex"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": [
+                    "t2"
+                ],
+                "names": [
+                    "11"
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "properties(vertex)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "edge",
+                "label": [
+                    "follow"
+                ],
+                "nodes": [
+                    {
+                        "start_node": "player101",
+                        "end_node": "player100"
+                    }
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "properties(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": [
+                    "player,",
+                    "t1"
+                ],
+                "names": [
+                    "player100",
+                    "player103"
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "vertex"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "edge",
+                "label": [
+                    "serve"
+                ],
+                "nodes": [
+                    {
+                        "start_node": "Boris Diaw",
+                        "end_node": "Hawks"
+                    }
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "start_year:待查询",
+                "end_year:待查询",
+                "edge"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": [
+                    "player,",
+                    "t1"
+                ],
+                "names": [
+                    "player100"
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "vertex"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": [
+                    "player"
+                ],
+                "names": [
+                    "Jason Kidd"
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "name:待查询",
+                "age:待查询"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": [
+                    "player"
+                ],
+                "names": [
+                    "Boris Diaw"
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "name:待查询",
+                "age:待查询",
+                "age:待查询"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "edge",
+                "label": [
+                    "like"
+                ],
+                "nodes": [
+                    {
+                        "start_node": "Tony Parker",
+                        "end_node": "Tim Duncan"
+                    },
+                    {
+                        "start_node": "Grant Hill",
+                        "end_node": "Tracy McGrady"
+                    }
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "edge"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": [
+                    "player"
+                ],
+                "names": [
+                    "Carmelo Anthony"
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "name:待查询",
+                "age:待查询"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": [
+                    "*"
+                ],
+                "names": [
+                    "Boris Diaw"
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "age:待查询",
+                "id(vertex)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "edge",
+                "label": [
+                    "like"
+                ],
+                "nodes": [
+                    {
+                        "start_node": "Tony Parker",
+                        "end_node": "Tim Duncan"
+                    },
+                    {
+                        "start_node": "Grant Hill",
+                        "end_node": "Tracy McGrady"
+                    }
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "edge"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": [
+                    "*"
+                ],
+                "names": [
+                    "player666",
+                    "player667",
+                    "player668"
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "properties(vertex)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": [
+                    "player"
+                ],
+                "names": [
+                    "player100"
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "properties(vertex)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": [
+                    "*"
+                ],
+                "names": [
+                    "Tim Duncan"
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "vertex"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "edge",
+                "label": [
+                    "serve"
+                ],
+                "nodes": [
+                    {
+                        "start_node": "Zion Williamson",
+                        "end_node": "Spurs"
+                    },
+                    {
+                        "start_node": "Boris Diaw",
+                        "end_node": "Hawks"
+                    }
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "start_year:待查询"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "edge",
+                "label": [
+                    "like"
+                ],
+                "nodes": [
+                    {
+                        "start_node": "Tony Parker",
+                        "end_node": "Tim Duncan"
+                    },
+                    {
+                        "start_node": "Grant Hill",
+                        "end_node": "Tracy McGrady"
+                    }
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "edge"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": [
+                    "player"
+                ],
+                "names": [
+                    "player101",
+                    "player102",
+                    "player103"
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "properties(vertex)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "edge",
+                "label": [
+                    "like"
+                ],
+                "nodes": [
+                    {
+                        "start_node": "Tony Parker",
+                        "end_node": "Tim Duncan"
+                    },
+                    {
+                        "start_node": "Grant Hill",
+                        "end_node": "Tracy McGrady"
+                    }
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "edge"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "edge",
+                "label": [
+                    "serve"
+                ],
+                "nodes": [
+                    {
+                        "start_node": "Boris Diaw",
+                        "end_node": "Spurs"
+                    }
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "edge"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": [
+                    "player"
+                ],
+                "names": [
+                    "Tony Parker"
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "name:待查询",
+                "age:待查询",
+                "properties(Vertex)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": [
+                    "player"
+                ],
+                "names": [
+                    "player100",
+                    "player101",
+                    "player102",
+                    "player103"
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "age:待查询",
+                "name:待查询"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD",
+            "ORDER BY"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": [
+                    "*"
+                ],
+                "names": [
+                    "Boris Diaw",
+                    "Boris Diaw"
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "name:待查询",
+                "age:待查询"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "yield"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "edge",
+                "label": [
+                    "serve"
+                ],
+                "nodes": [
+                    {
+                        "start_node": "Boris Diaw",
+                        "end_node": "Spurs"
+                    }
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "start_year:待查询",
+                "start_year:待查询"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "edge",
+                "label": [
+                    "serve"
+                ],
+                "nodes": [
+                    {
+                        "start_node": "player100",
+                        "end_node": "team204"
+                    },
+                    {
+                        "start_node": "player133",
+                        "end_node": "team202"
+                    }
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "edge"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": [
+                    "*"
+                ],
+                "names": [
+                    "Boris Diaw"
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "id(vertex)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": [
+                    "*"
+                ],
+                "names": [
+                    "Boris Diaw"
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "vertex"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": [
+                    "player"
+                ],
+                "names": [
+                    "Grant Hill"
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "name:待查询",
+                "age:待查询"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": [
+                    "player"
+                ],
+                "names": [
+                    "Kobe"
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "properties(vertex)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": [
+                    "player"
+                ],
+                "names": [
+                    "player101"
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "properties(vertex)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": [
+                    "*"
+                ],
+                "names": [
+                    "Tim Duncan"
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "id(vertex)",
+                "keys(vertex)",
+                "tags(vertex)",
+                "properties(vertex)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": [
+                    "team"
+                ],
+                "names": [
+                    "Spurs"
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "name:待查询"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "edge",
+                "label": [
+                    "serve"
+                ],
+                "nodes": [
+                    {
+                        "start_node": "player100",
+                        "end_node": "team204"
+                    }
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "start_year:待查询"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": [
+                    "player"
+                ],
+                "names": [
+                    "Tim Duncan"
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "name:待查询",
+                "age:待查询"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": [
+                    "*"
+                ],
+                "names": [
+                    "Boris Diaw"
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "name:待查询",
+                "age:待查询"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "yield"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "edge",
+                "label": [
+                    "like"
+                ],
+                "nodes": [
+                    {
+                        "start_node": "Tony Parker",
+                        "end_node": "Tim Duncan"
+                    },
+                    {
+                        "start_node": "Grant Hill",
+                        "end_node": "Tracy McGrady"
+                    }
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "edge"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": [
+                    "player"
+                ],
+                "names": [
+                    "player100"
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "name:待查询"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": [
+                    "player"
+                ],
+                "names": [
+                    "Boris Diaw"
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "name:待查询",
+                "age:待查询"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": [
+                    "player"
+                ],
+                "names": [
+                    "player100"
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "name:待查询"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "edge",
+                "label": [
+                    "serve"
+                ],
+                "nodes": [
+                    {
+                        "start_node": "player100",
+                        "end_node": "team204\"@1"
+                    }
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "edge"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": [
+                    "any_shape"
+                ],
+                "names": [
+                    "103"
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "geo:待查询"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "edge",
+                "label": [
+                    "serve"
+                ],
+                "nodes": [
+                    {
+                        "start_node": "Boris Diaw",
+                        "end_node": "Spurs"
+                    }
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "edge",
+                "src(edge)",
+                "dst(edge)",
+                "type(edge)",
+                "rank(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": [
+                    "player"
+                ],
+                "names": [
+                    "Boris Diaw",
+                    "Tony Parker"
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "vertex"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": [
+                    "player"
+                ],
+                "names": [
+                    "Boris Diaw",
+                    "Tony Parker"
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "name:待查询",
+                "age:待查询"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "edge",
+                "label": [
+                    "serve"
+                ],
+                "nodes": [
+                    {
+                        "start_node": "Boris Diaw",
+                        "end_node": "Spurs"
+                    }
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "_src:待查询",
+                "_dst:待查询",
+                "_rank:待查询"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "edge",
+                "label": [
+                    "any_shape_edge"
+                ],
+                "nodes": [
+                    {
+                        "start_node": "201",
+                        "end_node": "302"
+                    }
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "geo:待查询"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "edge",
+                "label": [
+                    "like"
+                ],
+                "nodes": [
+                    {
+                        "start_node": "Tony Parker",
+                        "end_node": "Tim Duncan"
+                    },
+                    {
+                        "start_node": "Grant Hill",
+                        "end_node": "Tracy McGrady"
+                    }
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "edge"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": [
+                    "*"
+                ],
+                "names": [
+                    "Tim Duncan"
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "id(vertex)",
+                "keys(vertex)",
+                "tags(vertex)",
+                "properties(vertex)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "edge",
+                "label": [
+                    "serve"
+                ],
+                "nodes": [
+                    {
+                        "start_node": "Tony Parker",
+                        "end_node": "Spurs"
+                    }
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "start_year:待查询",
+                "end_year:待查询"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": [
+                    "player",
+                    "$v1.a"
+                ],
+                "names": []
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "\"Ray Allen\"",
+                "name:待查询"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "YIELD",
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "edge",
+                "label": [
+                    "serve"
+                ],
+                "nodes": [
+                    {
+                        "start_node": "player100",
+                        "end_node": "team204"
+                    }
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "edge"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "edge",
+                "label": [
+                    "like"
+                ],
+                "nodes": [
+                    {
+                        "start_node": "Tony Parker",
+                        "end_node": "Tim Duncan"
+                    },
+                    {
+                        "start_node": "Grant Hill",
+                        "end_node": "Tracy McGrady"
+                    }
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "properties(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": [
+                    "player"
+                ],
+                "names": [
+                    "Boris Diaw"
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "name:待查询",
+                "name:待查询"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": [
+                    "player"
+                ],
+                "names": [
+                    "Tony Parker"
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "name:待查询",
+                "age:待查询"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": [
+                    "*"
+                ],
+                "names": [
+                    "test"
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "vertex"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": [
+                    "*"
+                ],
+                "names": [
+                    "player100",
+                    "player106",
+                    "team200"
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "vertex"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "edge",
+                "label": [
+                    "serve"
+                ],
+                "nodes": [
+                    {
+                        "start_node": "Boris Diaw",
+                        "end_node": "Not Exist"
+                    }
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "src(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "edge",
+                "label": [
+                    "serve"
+                ],
+                "nodes": [
+                    {
+                        "start_node": "player100",
+                        "end_node": "team204"
+                    }
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "properties(edge)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "edge",
+                "label": [
+                    "serve"
+                ],
+                "nodes": [
+                    {
+                        "start_node": "Boris Diaw",
+                        "end_node": "Hawks"
+                    }
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "start_year:待查询",
+                "end_year:待查询"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": [
+                    "*",
+                    "$-.id"
+                ],
+                "names": []
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "'Boris Diaw'",
+                "name:待查询",
+                "age:待查询"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "YIELD",
+            "FETCH PROP ON",
+            "yield"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "fetch prop on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": [
+                    "*"
+                ],
+                "names": [
+                    "Boris Diaw"
+                ]
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "age:待查询",
+                "id(vertex)",
+                "vertex"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "FETCH PROP ON",
+            "YIELD"
+        ]
+    }
+]

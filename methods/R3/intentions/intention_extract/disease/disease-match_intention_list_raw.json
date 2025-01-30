@@ -1,0 +1,4526 @@
+[
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "疰夏",
+                    "prevent": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "小儿莫拉雷脑膜炎",
+                    "cured_prob": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "疥疮",
+                    "prevent": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "小儿营养不良性消瘦",
+                    "cause": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "小儿中暑和暑热症",
+                    "prevent": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "edge",
+                "variable_name": "e",
+                "label": [
+                    "cure_way"
+                ],
+                "length": null,
+                "properties": null,
+                "start_node": {
+                    "type": "node",
+                    "variable_name": "n",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": {
+                        "name": "胃炎"
+                    }
+                },
+                "end_node": {
+                    "type": "node",
+                    "variable_name": "n1",
+                    "label": [
+                        "cure"
+                    ],
+                    "properties": {
+                        "name": "待查询"
+                    }
+                },
+                "direction": true
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "遗传性耳瘘",
+                    "cured_prob": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "edge",
+                "variable_name": "e",
+                "label": [
+                    "has_symptom"
+                ],
+                "length": null,
+                "properties": null,
+                "start_node": {
+                    "type": "node",
+                    "variable_name": "n",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": {
+                        "name": "高血压"
+                    }
+                },
+                "end_node": {
+                    "type": "node",
+                    "variable_name": "n1",
+                    "label": [
+                        "symptom"
+                    ],
+                    "properties": {
+                        "name": "待查询"
+                    }
+                },
+                "direction": true
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "where",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "edge",
+                "variable_name": null,
+                "label": [],
+                "length": null,
+                "properties": null,
+                "start_node": {
+                    "type": "node",
+                    "variable_name": "n",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": {
+                        "name": "待查询"
+                    }
+                },
+                "end_node": {
+                    "type": "node",
+                    "variable_name": "n1",
+                    "label": [
+                        "drug"
+                    ],
+                    "properties": {
+                        "name": "四物颗粒"
+                    }
+                },
+                "direction": true
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "edge",
+                "variable_name": null,
+                "label": [
+                    "cure_way"
+                ],
+                "length": null,
+                "properties": null,
+                "start_node": {
+                    "type": "node",
+                    "variable_name": "n",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": {
+                        "name": "小儿糖原贮积病Ⅳ型"
+                    }
+                },
+                "end_node": {
+                    "type": "node",
+                    "variable_name": "n1",
+                    "label": [],
+                    "properties": null
+                },
+                "direction": true
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "n1"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "三叉神经痛",
+                    "get_prob": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "edge",
+                "variable_name": "e",
+                "label": [
+                    "recommend_eat"
+                ],
+                "length": null,
+                "properties": null,
+                "start_node": {
+                    "type": "node",
+                    "variable_name": "n",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": {
+                        "name": "多发性骨骺发育不良"
+                    }
+                },
+                "end_node": {
+                    "type": "node",
+                    "variable_name": "n1",
+                    "label": [
+                        "food"
+                    ],
+                    "properties": {
+                        "name": "待查询"
+                    }
+                },
+                "direction": true
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "where",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "edge",
+                "variable_name": "e",
+                "label": [
+                    "recommend_drug"
+                ],
+                "length": null,
+                "properties": null,
+                "start_node": {
+                    "type": "node",
+                    "variable_name": "n",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": {
+                        "name": "心脏病"
+                    }
+                },
+                "end_node": {
+                    "type": "node",
+                    "variable_name": "n1",
+                    "label": [
+                        "drug"
+                    ],
+                    "properties": null
+                },
+                "direction": true
+            },
+            {
+                "type": "edge",
+                "variable_name": "e2",
+                "label": [],
+                "length": null,
+                "properties": null,
+                "end_node": {
+                    "type": "node",
+                    "variable_name": "n1",
+                    "label": [
+                        "drug"
+                    ],
+                    "properties": null
+                },
+                "start_node": {
+                    "type": "node",
+                    "variable_name": "n2",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": {
+                        "name": "待查询"
+                    }
+                },
+                "direction": true
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "where",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "edge",
+                "variable_name": null,
+                "label": [],
+                "length": null,
+                "properties": null,
+                "start_node": {
+                    "type": "node",
+                    "variable_name": "n",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": {
+                        "name": "待查询"
+                    }
+                },
+                "end_node": {
+                    "type": "node",
+                    "variable_name": "n1",
+                    "label": [
+                        "drug"
+                    ],
+                    "properties": {
+                        "name": "前列通片"
+                    }
+                },
+                "direction": true
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "小肠气痛",
+                    "easy_get": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "下消化道出血",
+                    "cured_prob": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "餐后血糖过低症",
+                    "cure_lasttime": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "母儿ABO血型不合",
+                    "symptom": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "无排卵性不孕症",
+                    "easy_get": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "酒精中毒性神经疾病",
+                    "cause": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "edge",
+                "variable_name": "e",
+                "label": [
+                    "accompany_with"
+                ],
+                "length": null,
+                "properties": null,
+                "start_node": {
+                    "type": "node",
+                    "variable_name": "n",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": {
+                        "name": "待查询"
+                    }
+                },
+                "end_node": {
+                    "type": "node",
+                    "variable_name": "n1",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": {
+                        "name": "脾虚泄泻"
+                    }
+                },
+                "direction": true
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "骨外软骨肉瘤",
+                    "cause": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "小儿中暑和暑热症",
+                    "easy_get": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "edge",
+                "variable_name": "e",
+                "label": [
+                    "accompany_with"
+                ],
+                "length": null,
+                "properties": null,
+                "start_node": {
+                    "type": "node",
+                    "variable_name": "n",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": {
+                        "name": "哮喘"
+                    }
+                },
+                "end_node": {
+                    "type": "node",
+                    "variable_name": "n1",
+                    "label": [
+                        "symptom"
+                    ],
+                    "properties": {
+                        "name": "待查询"
+                    }
+                },
+                "direction": true
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "急性乳腺炎",
+                    "symptom": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "疥疮",
+                    "cause": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "edge",
+                "variable_name": null,
+                "label": [],
+                "length": null,
+                "properties": null,
+                "start_node": {
+                    "type": "node",
+                    "variable_name": "n",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": {
+                        "name": "待查询"
+                    }
+                },
+                "end_node": {
+                    "type": "node",
+                    "variable_name": "n1",
+                    "label": [
+                        "drug"
+                    ],
+                    "properties": {
+                        "name": "眼氨肽滴眼液"
+                    }
+                },
+                "direction": true
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "乳头肌功能不全",
+                    "easy_get": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "糖尿病",
+                    "cure_lasttime": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "edge",
+                "variable_name": "e",
+                "label": [
+                    "has_symptom"
+                ],
+                "length": null,
+                "properties": null,
+                "start_node": {
+                    "type": "node",
+                    "variable_name": "n",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": {
+                        "name": "戊型病毒性肝炎"
+                    }
+                },
+                "end_node": {
+                    "type": "node",
+                    "variable_name": "n1",
+                    "label": [
+                        "symptom"
+                    ],
+                    "properties": {
+                        "name": "待查询"
+                    }
+                },
+                "direction": true
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "where",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "小儿莫拉雷脑膜炎",
+                    "symptom": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "足外翻",
+                    "get_prob": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "慢性淋巴细胞性白血病",
+                    "cause": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "赤丝虬脉",
+                    "cured_prob": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "edge",
+                "variable_name": "e",
+                "label": [
+                    "recommend_eat"
+                ],
+                "length": null,
+                "properties": null,
+                "start_node": {
+                    "type": "node",
+                    "variable_name": "n",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": {
+                        "name": "糖尿病"
+                    }
+                },
+                "end_node": {
+                    "type": "node",
+                    "variable_name": "n1",
+                    "label": [
+                        "food"
+                    ],
+                    "properties": {
+                        "name": "待查询"
+                    }
+                },
+                "direction": true
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "where",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "edge",
+                "variable_name": "e",
+                "label": [
+                    "has_symptom"
+                ],
+                "length": null,
+                "properties": null,
+                "start_node": {
+                    "type": "node",
+                    "variable_name": "n",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": {
+                        "name": "糖尿病"
+                    }
+                },
+                "end_node": {
+                    "type": "node",
+                    "variable_name": "n1",
+                    "label": [
+                        "symptom"
+                    ],
+                    "properties": {
+                        "name": "待查询"
+                    }
+                },
+                "direction": true
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "where",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "三叉神经痛",
+                    "cause": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "edge",
+                "variable_name": null,
+                "label": [],
+                "length": null,
+                "properties": null,
+                "start_node": {
+                    "type": "node",
+                    "variable_name": "n",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": null
+                },
+                "end_node": {
+                    "type": "node",
+                    "variable_name": "n1",
+                    "label": [
+                        "cure"
+                    ],
+                    "properties": {
+                        "name": "药物治疗"
+                    }
+                },
+                "direction": true
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "count(n)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "edge",
+                "variable_name": null,
+                "label": [],
+                "length": null,
+                "properties": null,
+                "start_node": {
+                    "type": "node",
+                    "variable_name": "n",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": {
+                        "name": "待查询"
+                    }
+                },
+                "end_node": {
+                    "type": "node",
+                    "variable_name": "n1",
+                    "label": [
+                        "drug"
+                    ],
+                    "properties": {
+                        "name": "伤痛宁膏"
+                    }
+                },
+                "direction": true
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "小儿雅克什综合征",
+                    "symptom": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "edge",
+                "variable_name": "e",
+                "label": [
+                    "has_symptom"
+                ],
+                "length": null,
+                "properties": null,
+                "start_node": {
+                    "type": "node",
+                    "variable_name": "n",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": {
+                        "name": "房室管畸形"
+                    }
+                },
+                "end_node": {
+                    "type": "node",
+                    "variable_name": "n1",
+                    "label": [
+                        "symptom"
+                    ],
+                    "properties": {
+                        "name": "待查询"
+                    }
+                },
+                "direction": true
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "where",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "edge",
+                "variable_name": null,
+                "label": [],
+                "length": null,
+                "properties": null,
+                "start_node": {
+                    "type": "node",
+                    "variable_name": "n",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": {
+                        "name": "待查询"
+                    }
+                },
+                "end_node": {
+                    "type": "node",
+                    "variable_name": "n1",
+                    "label": [
+                        "drug"
+                    ],
+                    "properties": {
+                        "name": "脑血康丸"
+                    }
+                },
+                "direction": true
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "迁延性昏迷",
+                    "cure_lasttime": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "edge",
+                "variable_name": "e",
+                "label": [
+                    "accompany_with"
+                ],
+                "length": null,
+                "properties": null,
+                "start_node": {
+                    "type": "node",
+                    "variable_name": "n",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": {
+                        "name": "待查询"
+                    }
+                },
+                "end_node": {
+                    "type": "node",
+                    "variable_name": "n1",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": {
+                        "name": "头痛"
+                    }
+                },
+                "direction": true
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "脐疝",
+                    "cure_lasttime": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "edge",
+                "variable_name": "e",
+                "label": [
+                    "accompany_with"
+                ],
+                "length": null,
+                "properties": null,
+                "start_node": {
+                    "type": "node",
+                    "variable_name": "n",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": {
+                        "name": "待查询"
+                    }
+                },
+                "end_node": {
+                    "type": "node",
+                    "variable_name": "n1",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": {
+                        "name": "糖尿病"
+                    }
+                },
+                "direction": true
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "复发性线性棘层松解性皮肤病",
+                    "easy_get": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "母儿ABO血型不合",
+                    "prevent": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "颜面部疖痈",
+                    "easy_get": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "特发性非硬化性门脉高压综合征",
+                    "get_prob": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "餐后血糖过低症",
+                    "cured_prob": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "edge",
+                "variable_name": null,
+                "label": [],
+                "length": null,
+                "properties": null,
+                "start_node": {
+                    "type": "node",
+                    "variable_name": "n",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": {
+                        "name": "待查询"
+                    }
+                },
+                "end_node": {
+                    "type": "node",
+                    "variable_name": "n1",
+                    "label": [
+                        "drug"
+                    ],
+                    "properties": {
+                        "name": "全鹿丸"
+                    }
+                },
+                "direction": true
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "edge",
+                "variable_name": null,
+                "label": [],
+                "length": null,
+                "properties": null,
+                "start_node": {
+                    "type": "node",
+                    "variable_name": "n",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": null
+                },
+                "end_node": {
+                    "type": "node",
+                    "variable_name": "n1",
+                    "label": [
+                        "cure"
+                    ],
+                    "properties": {
+                        "name": "康复治疗"
+                    }
+                },
+                "direction": true
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "count(n)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "三尖瓣闭锁",
+                    "cause": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "肱骨内髁骨折",
+                    "easy_get": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "edge",
+                "variable_name": "e",
+                "label": [
+                    "has_symptom"
+                ],
+                "length": null,
+                "properties": null,
+                "start_node": {
+                    "type": "node",
+                    "variable_name": "n",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": {
+                        "name": "霍奇金病"
+                    }
+                },
+                "end_node": {
+                    "type": "node",
+                    "variable_name": "n1",
+                    "label": [
+                        "symptom"
+                    ],
+                    "properties": {
+                        "name": "待查询"
+                    }
+                },
+                "direction": true
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "where",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "赤丝虬脉",
+                    "prevent": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "edge",
+                "variable_name": "e",
+                "label": [
+                    "recommend_eat"
+                ],
+                "length": null,
+                "properties": null,
+                "start_node": {
+                    "type": "node",
+                    "variable_name": "n",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": {
+                        "name": "戊型病毒性肝炎"
+                    }
+                },
+                "end_node": {
+                    "type": "node",
+                    "variable_name": "n1",
+                    "label": [
+                        "food"
+                    ],
+                    "properties": {
+                        "name": "待查询"
+                    }
+                },
+                "direction": true
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "where",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "胰腺囊腺瘤和囊腺癌",
+                    "cured_prob": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "戊型病毒性肝炎",
+                    "cause": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "小儿糖原贮积病Ⅳ型",
+                    "symptom": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "三尖瓣闭锁",
+                    "prevent": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "relation_or_path",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": null
+            },
+            {
+                "type": "node",
+                "variable_name": "n1",
+                "label": [
+                    "cure"
+                ],
+                "properties": {
+                    "name": "物理治疗"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "count(n)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "磨牙",
+                    "prevent": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "迁延性昏迷",
+                    "easy_get": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "edge",
+                "variable_name": "e",
+                "label": [
+                    "has_symptom"
+                ],
+                "length": null,
+                "properties": null,
+                "start_node": {
+                    "type": "node",
+                    "variable_name": "n",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": {
+                        "name": "白血病"
+                    }
+                },
+                "end_node": {
+                    "type": "node",
+                    "variable_name": "n1",
+                    "label": [
+                        "symptom"
+                    ],
+                    "properties": {
+                        "name": "待查询"
+                    }
+                },
+                "direction": true
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "edge",
+                "variable_name": "e",
+                "label": [
+                    "accompany_with"
+                ],
+                "length": null,
+                "properties": null,
+                "start_node": {
+                    "type": "node",
+                    "variable_name": "n",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": {
+                        "name": "待查询"
+                    }
+                },
+                "end_node": {
+                    "type": "node",
+                    "variable_name": "n1",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": {
+                        "name": "心脏病"
+                    }
+                },
+                "direction": true
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "edge",
+                "variable_name": "e",
+                "label": [
+                    "recommend_eat"
+                ],
+                "length": null,
+                "properties": null,
+                "start_node": {
+                    "type": "node",
+                    "variable_name": "n",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": {
+                        "name": "坐骨神经盆腔出口狭窄症"
+                    }
+                },
+                "end_node": {
+                    "type": "node",
+                    "variable_name": "n1",
+                    "label": [
+                        "food"
+                    ],
+                    "properties": {
+                        "name": "待查询"
+                    }
+                },
+                "direction": true
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "where",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "眼睑热性疱疹",
+                    "cure_lasttime": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "edge",
+                "variable_name": "e",
+                "label": [
+                    "recommend_eat"
+                ],
+                "length": null,
+                "properties": null,
+                "start_node": {
+                    "type": "node",
+                    "variable_name": "n",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": {
+                        "name": "白血病"
+                    }
+                },
+                "end_node": {
+                    "type": "node",
+                    "variable_name": "n1",
+                    "label": [
+                        "food"
+                    ],
+                    "properties": {
+                        "name": "待查询"
+                    }
+                },
+                "direction": true
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "where",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "edge",
+                "variable_name": "e",
+                "label": [
+                    "has_symptom"
+                ],
+                "length": null,
+                "properties": null,
+                "start_node": {
+                    "type": "node",
+                    "variable_name": "n",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": {
+                        "name": "酒精中毒性神经疾病"
+                    }
+                },
+                "end_node": {
+                    "type": "node",
+                    "variable_name": "n1",
+                    "label": [
+                        "symptom"
+                    ],
+                    "properties": {
+                        "name": "待查询"
+                    }
+                },
+                "direction": true
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "where",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "edge",
+                "variable_name": "e",
+                "label": [
+                    "recommend_drug"
+                ],
+                "length": null,
+                "properties": null,
+                "start_node": {
+                    "type": "node",
+                    "variable_name": "n",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": {
+                        "name": "肝炎"
+                    }
+                },
+                "end_node": {
+                    "type": "node",
+                    "variable_name": "n1",
+                    "label": [
+                        "drug"
+                    ],
+                    "properties": {
+                        "name": "待查询"
+                    }
+                },
+                "direction": true
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "肌纤维组织炎",
+                    "cure_lasttime": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "edge",
+                "variable_name": "e",
+                "label": [
+                    "cure_department"
+                ],
+                "length": null,
+                "properties": null,
+                "start_node": {
+                    "type": "node",
+                    "variable_name": "n",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": {
+                        "name": "待查询"
+                    }
+                },
+                "end_node": {
+                    "type": "node",
+                    "variable_name": "n1",
+                    "label": [],
+                    "properties": null
+                },
+                "direction": true
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "偏头痛",
+                    "prevent": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "胰腺囊腺瘤和囊腺癌",
+                    "cure_lasttime": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "岩骨斜坡脑膜瘤",
+                    "cure_lasttime": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "高血压",
+                    "cause": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "气虚血瘀证",
+                    "cure_lasttime": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "edge",
+                "variable_name": "e",
+                "label": [
+                    "recommend_eat"
+                ],
+                "length": null,
+                "properties": null,
+                "start_node": {
+                    "type": "node",
+                    "variable_name": "n",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": {
+                        "name": "高血压"
+                    }
+                },
+                "end_node": {
+                    "type": "node",
+                    "variable_name": "n1",
+                    "label": [
+                        "food"
+                    ],
+                    "properties": {
+                        "name": "待查询"
+                    }
+                },
+                "direction": true
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "where",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "偏头痛",
+                    "cause": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "霍奇金病",
+                    "cause": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "遗传性耳瘘",
+                    "prevent": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "特发性非硬化性门脉高压综合征",
+                    "cure_lasttime": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "edge",
+                "variable_name": "e",
+                "label": [
+                    "recommend_eat"
+                ],
+                "length": null,
+                "properties": null,
+                "start_node": {
+                    "type": "node",
+                    "variable_name": "n",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": {
+                        "name": "心脏病"
+                    }
+                },
+                "end_node": {
+                    "type": "node",
+                    "variable_name": "n1",
+                    "label": [
+                        "food"
+                    ],
+                    "properties": {
+                        "name": "待查询"
+                    }
+                },
+                "direction": true
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "where",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "纵隔非霍奇金淋巴瘤",
+                    "symptom": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "眼颧部褐蓝痣",
+                    "cure_lasttime": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "edge",
+                "variable_name": "e",
+                "label": [
+                    "has_symptom"
+                ],
+                "length": null,
+                "properties": null,
+                "start_node": {
+                    "type": "node",
+                    "variable_name": "n",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": {
+                        "name": "额叶癫痫"
+                    }
+                },
+                "end_node": {
+                    "type": "node",
+                    "variable_name": "n1",
+                    "label": [
+                        "symptom"
+                    ],
+                    "properties": {
+                        "name": "待查询"
+                    }
+                },
+                "direction": true
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "where",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "老年人恶性心包积液",
+                    "symptom": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "睾丸肿瘤",
+                    "symptom": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "edge",
+                "variable_name": "e",
+                "label": [
+                    "no_eat"
+                ],
+                "length": null,
+                "properties": null,
+                "start_node": {
+                    "type": "node",
+                    "variable_name": "n",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": {
+                        "name": "高血压"
+                    }
+                },
+                "end_node": {
+                    "type": "node",
+                    "variable_name": "n1",
+                    "label": [
+                        "food"
+                    ],
+                    "properties": {
+                        "name": "待查询"
+                    }
+                },
+                "direction": true
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "小肠气痛",
+                    "cause": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "edge",
+                "variable_name": "e",
+                "label": [
+                    "has_symptom"
+                ],
+                "length": null,
+                "properties": null,
+                "start_node": {
+                    "type": "node",
+                    "variable_name": "n",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": {
+                        "name": "足外翻"
+                    }
+                },
+                "end_node": {
+                    "type": "node",
+                    "variable_name": "n1",
+                    "label": [
+                        "symptom"
+                    ],
+                    "properties": {
+                        "name": "待查询"
+                    }
+                },
+                "direction": true
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "where",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "血稠",
+                    "cured_prob": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "血红蛋白E病",
+                    "easy_get": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "edge",
+                "variable_name": "e",
+                "label": [
+                    "need_check"
+                ],
+                "length": null,
+                "properties": null,
+                "start_node": {
+                    "type": "node",
+                    "variable_name": "n",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": {
+                        "name": "肺炎"
+                    }
+                },
+                "end_node": {
+                    "type": "node",
+                    "variable_name": "n1",
+                    "label": [
+                        "check"
+                    ],
+                    "properties": {
+                        "name": "待查询"
+                    }
+                },
+                "direction": true
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "肾上腺素能依赖性尖端扭转性室性心动过速",
+                    "cured_prob": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "睾丸肿瘤",
+                    "cured_prob": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "edge",
+                "variable_name": "e",
+                "label": [
+                    "accompany_with"
+                ],
+                "length": null,
+                "properties": null,
+                "start_node": {
+                    "type": "node",
+                    "variable_name": "n",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": {
+                        "name": "待查询"
+                    }
+                },
+                "end_node": {
+                    "type": "node",
+                    "variable_name": "n1",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": {
+                        "name": "高血压"
+                    }
+                },
+                "direction": true
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "小儿营养不良性消瘦",
+                    "cure_lasttime": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "肱骨内髁骨折",
+                    "cure_lasttime": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "蝶骨嵴脑膜瘤眼部病变",
+                    "symptom": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "神经棘红细胞增多症",
+                    "easy_get": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "泪腺炎",
+                    "symptom": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "老年人支气管扩张",
+                    "symptom": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "血稠",
+                    "prevent": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "根尖脓肿",
+                    "easy_get": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "幼年型慢性关节炎及其伴发的葡萄膜炎",
+                    "get_prob": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "edge",
+                "variable_name": "e",
+                "label": [
+                    "cure_department"
+                ],
+                "length": null,
+                "properties": null,
+                "start_node": {
+                    "type": "node",
+                    "variable_name": "n",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": {
+                        "name": "心脏病"
+                    }
+                },
+                "end_node": {
+                    "type": "node",
+                    "variable_name": "n1",
+                    "label": [
+                        "department"
+                    ],
+                    "properties": {
+                        "name": "待查询"
+                    }
+                },
+                "direction": true
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "edge",
+                "variable_name": "e",
+                "label": [
+                    "recommend_eat"
+                ],
+                "length": null,
+                "properties": null,
+                "start_node": {
+                    "type": "node",
+                    "variable_name": "n",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": {
+                        "name": "糖尿病"
+                    }
+                },
+                "end_node": {
+                    "type": "node",
+                    "variable_name": "n1",
+                    "label": [
+                        "food"
+                    ],
+                    "properties": {
+                        "name": "待查询"
+                    }
+                },
+                "direction": true
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "腹腔干动脉瘤",
+                    "prevent": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "根尖脓肿",
+                    "cure_lasttime": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "edge",
+                "variable_name": "e",
+                "label": [
+                    "cure_department"
+                ],
+                "length": null,
+                "properties": null,
+                "start_node": {
+                    "type": "node",
+                    "variable_name": "n",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": {
+                        "name": "待查询"
+                    }
+                },
+                "end_node": {
+                    "type": "node",
+                    "variable_name": "n1",
+                    "label": [
+                        "department"
+                    ],
+                    "properties": {
+                        "name": "耳鼻喉科"
+                    }
+                },
+                "direction": true
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "蝶骨嵴脑膜瘤眼部病变",
+                    "prevent": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "edge",
+                "variable_name": null,
+                "label": [],
+                "length": null,
+                "properties": null,
+                "start_node": {
+                    "type": "node",
+                    "variable_name": "n",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": {
+                        "name": "待查询"
+                    }
+                },
+                "end_node": {
+                    "type": "node",
+                    "variable_name": "n1",
+                    "label": [
+                        "drug"
+                    ],
+                    "properties": {
+                        "name": "龙虎人丹"
+                    }
+                },
+                "direction": true
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "泪腺炎",
+                    "prevent": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "软组织损伤",
+                    "prevent": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "edge",
+                "variable_name": null,
+                "label": [],
+                "length": null,
+                "properties": null,
+                "start_node": {
+                    "type": "node",
+                    "variable_name": "n",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": null
+                },
+                "end_node": {
+                    "type": "node",
+                    "variable_name": "n1",
+                    "label": [
+                        "cure"
+                    ],
+                    "properties": {
+                        "name": "手术治疗"
+                    }
+                },
+                "direction": true
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [
+                "count(n)"
+            ],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "霍奇金病",
+                    "cure_lasttime": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "肾上腺素能依赖性尖端扭转性室性心动过速",
+                    "symptom": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "外阴银屑病",
+                    "symptom": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "急性肾功能不全",
+                    "symptom": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "下消化道出血",
+                    "cause": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "呼吸系统疾病伴发的精神障碍",
+                    "cured_prob": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "edge",
+                "variable_name": "e",
+                "label": [
+                    "recommend_eat"
+                ],
+                "length": null,
+                "properties": null,
+                "start_node": {
+                    "type": "node",
+                    "variable_name": "n",
+                    "label": [
+                        "disease"
+                    ],
+                    "properties": {
+                        "name": "厥脱"
+                    }
+                },
+                "end_node": {
+                    "type": "node",
+                    "variable_name": "n1",
+                    "label": [
+                        "food"
+                    ],
+                    "properties": {
+                        "name": "待查询"
+                    }
+                },
+                "direction": true
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "where",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "细菌性阴道病",
+                    "easy_get": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "match",
+        "related_objects": [
+            {
+                "type": "node",
+                "variable_name": "n",
+                "label": [
+                    "disease"
+                ],
+                "properties": {
+                    "name": "幼年型慢性关节炎及其伴发的葡萄膜炎",
+                    "cured_prob": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "match",
+            "return"
+        ]
+    }
+]

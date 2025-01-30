@@ -1,0 +1,82 @@
+[
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "糖尿病",
+                "cured_prob ": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "戊型病毒性肝炎",
+                "cured_prob ": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "霍奇金病",
+                "cured_prob ": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "node",
+                "label": [
+                    "disease"
+                ],
+                "name": "高血压",
+                "cured_prob ": "待查询"
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    }
+]

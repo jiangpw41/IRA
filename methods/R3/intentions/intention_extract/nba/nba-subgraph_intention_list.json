@@ -1,0 +1,370 @@
+[
+    {
+        "查询对象": [
+            {
+                "category": "sub_graph",
+                "start_node_id_list": [
+                    "Tim Duncan"
+                ],
+                "edge_type_list": [
+                    "like",
+                    "serve"
+                ]
+            }
+        ],
+        "查询约束": [
+            "WITH PROP",
+            "2 steps"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "sub_graph",
+                "start_node_id_list": [
+                    "Tim Duncan"
+                ],
+                "edge_type_list": []
+            }
+        ],
+        "查询约束": [
+            "WITH PROP"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "sub_graph",
+                "start_node_id_list": [
+                    "Tim Duncan"
+                ],
+                "edge_type_list": [
+                    "like"
+                ]
+            }
+        ],
+        "查询约束": [
+            "4 steps"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "sub_graph",
+                "start_node_id_list": [
+                    "player101"
+                ],
+                "edge_type_list": []
+            }
+        ],
+        "查询约束": [
+            "WITH PROP",
+            "2 steps"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "sub_graph",
+                "start_node_id_list": [
+                    "Tim Duncan"
+                ],
+                "edge_type_list": [
+                    "like"
+                ]
+            }
+        ],
+        "查询约束": [
+            "4 steps"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "sub_graph",
+                "start_node_id_list": [
+                    "player101"
+                ],
+                "edge_type_list": [
+                    "follow"
+                ]
+            }
+        ],
+        "查询约束": [
+            "1 steps"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "sub_graph",
+                "start_node_id_list": [
+                    "Tim Duncan"
+                ],
+                "edge_type_list": [
+                    "like",
+                    "serve"
+                ]
+            }
+        ],
+        "查询约束": [
+            "WITH PROP",
+            "2 steps"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "sub_graph",
+                "start_node_id_list": [
+                    "Tim Duncan"
+                ],
+                "edge_type_list": [
+                    "like"
+                ]
+            }
+        ],
+        "查询约束": [],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "sub_graph",
+                "start_node_id_list": [
+                    "Tim Duncan"
+                ],
+                "edge_type_list": []
+            }
+        ],
+        "查询约束": [
+            "WITH PROP"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "sub_graph",
+                "start_node_id_list": [
+                    "player101"
+                ],
+                "edge_type_list": [
+                    "serve"
+                ]
+            }
+        ],
+        "查询约束": [
+            "WITH PROP",
+            "1 steps"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "sub_graph",
+                "start_node_id_list": [
+                    "Tim Duncan"
+                ],
+                "edge_type_list": []
+            }
+        ],
+        "查询约束": [
+            "WITH PROP",
+            "2 steps"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "sub_graph",
+                "start_node_id_list": [
+                    "player101"
+                ],
+                "edge_type_list": []
+            }
+        ],
+        "查询约束": [
+            "1 steps"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "sub_graph",
+                "start_node_id_list": [
+                    "Tim Duncan"
+                ],
+                "edge_type_list": [
+                    "like",
+                    "serve"
+                ]
+            }
+        ],
+        "查询约束": [
+            "WITH PROP",
+            "2 steps"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "sub_graph",
+                "start_node_id_list": [
+                    "Tim Duncan"
+                ],
+                "edge_type_list": [
+                    "like"
+                ]
+            }
+        ],
+        "查询约束": [
+            "2 steps"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "sub_graph",
+                "start_node_id_list": [
+                    "Tony Parker"
+                ],
+                "edge_type_list": [
+                    "teammate",
+                    "serve",
+                    "like"
+                ]
+            }
+        ],
+        "查询约束": [
+            "WITH PROP",
+            "5 steps"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    },
+    {
+        "查询对象": [
+            {
+                "category": "sub_graph",
+                "start_node_id_list": [
+                    "player101"
+                ],
+                "edge_type_list": [
+                    "follow"
+                ]
+            }
+        ],
+        "查询约束": [
+            "100 steps"
+        ],
+        "返回格式": {
+            "distinct": null,
+            "aggregation": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        }
+    }
+]

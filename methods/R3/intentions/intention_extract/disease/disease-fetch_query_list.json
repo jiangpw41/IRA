@@ -1,0 +1,6 @@
+[
+    "FETCH PROP ON disease \"糖尿病\" YIELD properties(vertex).cured_prob as prob",
+    "FETCH PROP ON disease \"戊型病毒性肝炎\" YIELD properties(vertex).cured_prob as prob",
+    "FETCH PROP ON disease \"霍奇金病\" YIELD properties(vertex).cured_prob as prob",
+    "FETCH PROP ON disease \"高血压\" YIELD properties(vertex).cured_prob as prob"
+]

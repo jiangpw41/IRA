@@ -1,0 +1,18 @@
+[
+    "GET SUBGRAPH WITH PROP 2 STEPS FROM 'Tim Duncan' IN like, serve YIELD EDGES as relationships",
+    "GET SUBGRAPH WITH PROP FROM 'Tim Duncan' | LIMIT 1",
+    "GET SUBGRAPH 4 steps from 'Tim Duncan' BOTH like YIELD vertices as a, edges as b",
+    "GET SUBGRAPH WITH PROP 2 STEPS FROM \"player101\"\nWHERE follow.degree > 90 AND $$.player.age > 30\nYIELD VERTICES AS nodes, EDGES AS relationships",
+    "GET SUBGRAPH 4 steps from 'Tim Duncan' BOTH like YIELD VERTICES as nodes, EDGES as relationships",
+    "GET SUBGRAPH 1 STEPS FROM \"player101\" IN follow YIELD VERTICES AS nodes, EDGES AS relationships",
+    "GET SUBGRAPH WITH PROP 2 STEPS FROM 'Tim Duncan' IN like OUT serve YIELD vertices as nodes, edges as relationships",
+    "GET SUBGRAPH FROM 'Tim Duncan' OUT like  YIELD vertices as v",
+    "$a = GET SUBGRAPH WITH PROP FROM 'Tim Duncan' | LIMIT 1",
+    "GET SUBGRAPH WITH PROP 1 STEPS FROM \"player101\" OUT serve YIELD VERTICES AS nodes, EDGES AS relationships",
+    "GET SUBGRAPH WITH PROP 2 STEPS FROM 'Tim Duncan'\n  WHERE like.likeness > 95 AND like.likeness < 100\n  YIELD vertices as nodes, edges as relationships",
+    "GET SUBGRAPH 1 STEPS FROM \"player101\" YIELD VERTICES AS nodes, EDGES AS relationships",
+    "GET SUBGRAPH WITH PROP 2 STEPS FROM 'Tim Duncan' IN like, serve YIELD vertices as nodes, edges as relationships",
+    "GET SUBGRAPH 2 STEPS FROM \"Tim Duncan\" BOTH like YIELD edges as e\n| UNWIND $-.e as a | YIELD $-.a AS a",
+    "GET SUBGRAPH WITH PROP 5 steps from 'Tony Parker' IN teammate OUT serve BOTH like YIELD VERTICES as nodes, EDGES as relationships",
+    "GET SUBGRAPH 100 STEPS FROM \"player101\" OUT follow YIELD VERTICES AS nodes, EDGES AS relationships"
+]

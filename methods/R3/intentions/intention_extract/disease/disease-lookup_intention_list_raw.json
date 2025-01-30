@@ -1,0 +1,758 @@
+[
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "disease",
+                "properties": {
+                    "name": "激素抵抗型哮喘",
+                    "easy_get": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "disease",
+                "properties": {
+                    "name": "肝炎",
+                    "easy_get": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "disease",
+                "properties": {
+                    "name": "初潮痛经",
+                    "cause": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "disease",
+                "properties": {
+                    "name": "糖尿病",
+                    "get_prob": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "disease",
+                "properties": {
+                    "name": "液脱",
+                    "get_prob": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "disease",
+                "properties": {
+                    "name": "高血压",
+                    "prevent": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "disease",
+                "properties": {
+                    "name": "戊型病毒性肝炎",
+                    "easy_get": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "disease",
+                "properties": {
+                    "name": "肺炎",
+                    "prevent": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "disease",
+                "properties": {
+                    "name": "肾病",
+                    "cure_lasttime": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "disease",
+                "properties": {
+                    "name": "白血病",
+                    "cured_prob": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "disease",
+                "properties": {
+                    "name": "糖尿病",
+                    "cause": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "disease",
+                "properties": {
+                    "name": "糖尿病",
+                    "prevent": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "disease",
+                "properties": {
+                    "name": "心脏病",
+                    "get_prob": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "disease",
+                "properties": {
+                    "name": "霍奇金病",
+                    "prevent": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "disease",
+                "properties": {
+                    "name": "霍奇金病",
+                    "easy_get": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "disease",
+                "properties": {
+                    "name": "初潮痛经",
+                    "prevent": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "disease",
+                "properties": {
+                    "name": "高血压",
+                    "get_prob": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "disease",
+                "properties": {
+                    "name": "软纤维瘤",
+                    "get_prob": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "disease",
+                "properties": {
+                    "name": "白血病",
+                    "get_prob": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "disease",
+                "properties": {
+                    "name": "胃炎",
+                    "cure_lasttime": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "disease",
+                "properties": {
+                    "name": "戊型病毒性肝炎",
+                    "prevent": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "disease",
+                "properties": {
+                    "name": "甲状腺炎",
+                    "cure_lasttime": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "disease",
+                "properties": {
+                    "name": "霍奇金病",
+                    "get_prob": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "disease",
+                "properties": {
+                    "name": "戊型病毒性肝炎",
+                    "get_prob": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "disease",
+                "properties": {
+                    "name": "支气管炎",
+                    "get_prob": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "disease",
+                "properties": {
+                    "name": "肾炎",
+                    "get_prob": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "disease",
+                "properties": {
+                    "name": "老年人支气管扩张",
+                    "get_prob": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    },
+    {
+        "query_pattern": "node_or_edge",
+        "recommend_keywords": "lookup on",
+        "related_objects": [
+            {
+                "type": "vertex",
+                "label": "disease",
+                "properties": {
+                    "name": "甲状腺炎",
+                    "symptom": "待查询"
+                }
+            }
+        ],
+        "restrict": [],
+        "return_format": {
+            "distinct": false,
+            "return_object": [],
+            "order by": null,
+            "limit": null,
+            "skip": null
+        },
+        "clauses": [
+            "LOOKUP ON",
+            "WHERE",
+            "YIELD"
+        ]
+    }
+]
